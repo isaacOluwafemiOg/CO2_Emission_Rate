@@ -1,5 +1,5 @@
 # CO2_Emission_Rate
-Applying Machine Learning to predict CO2 emission rates of vehicles
+Applying Machine Learning to predict CO2 emission of vehicles
 
 - The full dataset used is found in 'CO2 Emissions_Canada.csv'
 - There is a description for the data in 'Data Description.csv'
