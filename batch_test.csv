@@ -1,0 +1,1462 @@
+Make,Vehicle Class,Engine Size(L),Cylinders,Transmission,Fuel Type,Fuel Consumption Comb (L/100 km),number_of_gears,Average Monthly Distance(km)
+LAMBORGHINI,TWO-SEATER,6.5,12,Automated Manual,Premium Gasoline,19.3,7,1999.48
+BENTLEY,SUBCOMPACT,4.0,8,Automated Manual,Premium Gasoline,12.4,8,2057.41
+BMW,SUBCOMPACT,3.0,6,Automatic with Select Shift,Premium Gasoline,9.6,8,1978.53
+INFINITI,SUV - STANDARD,5.6,8,Automatic with Select Shift,Premium Gasoline,15.1,7,1894.98
+KIA,COMPACT,1.6,4,Manual,Regular Gasoline,7.8,6,2066.89
+RAM,PICKUP TRUCK - STANDARD,3.0,6,Automatic,Diesel,10.2,8,2068.12
+CHEVROLET,MID-SIZE,3.6,6,Automatic with Select Shift,Regular Gasoline,11.9,6,1953.92
+GMC,VAN - CARGO,5.3,8,Automatic,Ethanol(E85),21.5,4,1935.52
+TOYOTA,SUV - SMALL,2.5,4,Continuously Variable,Regular Gasoline,7.2,6,2118.67
+MASERATI,FULL-SIZE,3.0,6,Automatic with Select Shift,Premium Gasoline,12.8,8,1971.49
+MINI,MID-SIZE,1.5,3,Automatic with Select Shift,Premium Gasoline,8.6,8,1897.15
+GMC,PICKUP TRUCK - STANDARD,5.3,8,Automatic,Regular Gasoline,13.8,8,2109.99
+BMW,FULL-SIZE,4.4,8,Automatic with Select Shift,Premium Gasoline,12.8,8,1941.08
+JAGUAR,MID-SIZE,5.0,8,Automatic with Select Shift,Premium Gasoline,13.3,8,1982.97
+LEXUS,MID-SIZE,3.5,6,Continuously Variable,Premium Gasoline,9.1,10,2029.1
+TOYOTA,SUV - STANDARD,3.5,6,Continuously Variable,Regular Gasoline,8.2,6,2004.18
+FORD,MID-SIZE,2.0,4,Automatic with Select Shift,Regular Gasoline,8.9,6,1936.36
+MASERATI,FULL-SIZE,3.0,6,Automatic with Select Shift,Premium Gasoline,12.9,8,1941.26
+VOLKSWAGEN,SUBCOMPACT,1.8,4,Automatic with Select Shift,Regular Gasoline,8.5,6,2012.88
+FORD,VAN - PASSENGER,4.6,8,Automatic,Ethanol(E85),23.0,4,1912.19
+JEEP,SUV - SMALL,3.6,6,Automatic,Regular Gasoline,11.0,8,2119.03
+FORD,VAN - PASSENGER,3.7,6,Automatic with Select Shift,Ethanol(E85),20.9,6,1948.08
+BMW,COMPACT,3.0,6,Automatic with Select Shift,Premium Gasoline,8.7,8,1917.55
+HONDA,COMPACT,1.5,4,Continuously Variable,Regular Gasoline,7.2,7,1926.67
+LAND ROVER,SUV - SMALL,2.0,4,Automatic with Select Shift,Premium Gasoline,11.9,6,1930.07
+BMW,SUV - STANDARD,3.0,6,Automatic with Select Shift,Premium Gasoline,10.8,8,2122.4
+BMW,SUV - SMALL,3.0,6,Automatic,Premium Gasoline,11.3,6,1992.97
+LINCOLN,FULL-SIZE,3.7,6,Automatic with Select Shift,Regular Gasoline,12.2,6,2080.12
+HYUNDAI,COMPACT,1.6,4,Automated Manual,Regular Gasoline,7.5,6,2098.86
+FIAT,MINICOMPACT,1.4,4,Manual,Regular Gasoline,7.0,5,1901.95
+FORD,SPECIAL PURPOSE VEHICLE,2.5,4,Automatic with Select Shift,Regular Gasoline,10.4,6,2043.2
+CHRYSLER,MINIVAN,3.6,6,Automatic,Regular Gasoline,10.9,9,2097.84
+CADILLAC,MID-SIZE,2.0,4,Automatic with Select Shift,Premium Gasoline,9.8,8,1939.16
+ACURA,MID-SIZE,3.7,6,Manual,Premium Gasoline,11.6,6,2127.85
+KIA,FULL-SIZE,1.6,4,Manual,Regular Gasoline,9.8,6,2021.12
+VOLVO,STATION WAGON - SMALL,2.5,5,Automatic with Select Shift,Regular Gasoline,10.1,6,2016.4
+BUICK,SUV - SMALL,2.5,4,Automatic,Regular Gasoline,10.0,6,2144.16
+CHEVROLET,SUBCOMPACT,6.2,8,Automatic with Select Shift,Premium Gasoline,15.1,10,1926.21
+AUDI,MID-SIZE,3.0,6,Automatic with Select Shift,Premium Gasoline,10.0,8,2127.0
+MERCEDES-BENZ,SUBCOMPACT,4.0,8,Automatic,Premium Gasoline,12.2,7,1945.17
+LEXUS,MID-SIZE,3.5,6,Automatic with Select Shift,Premium Gasoline,10.6,8,2027.87
+VOLVO,STATION WAGON - MID-SIZE,2.0,4,Automatic with Select Shift,Premium Gasoline,9.6,8,1898.16
+SUBARU,COMPACT,2.0,4,Continuously Variable,Regular Gasoline,7.6,6,1974.05
+SCION,MINICOMPACT,2.0,4,Manual,Premium Gasoline,9.6,6,1943.82
+SUBARU,SUV - SMALL,2.0,4,Continuously Variable,Regular Gasoline,8.1,7,2085.79
+CHEVROLET,PICKUP TRUCK - STANDARD,5.3,8,Automatic,Regular Gasoline,13.5,6,2142.88
+FORD,SUBCOMPACT,1.6,4,Automatic with Select Shift,Regular Gasoline,7.4,6,1918.19
+MITSUBISHI,COMPACT,1.2,3,Manual,Regular Gasoline,6.5,5,1894.0
+LEXUS,MID-SIZE,3.5,6,Automatic with Select Shift,Premium Gasoline,10.4,8,2054.94
+MASERATI,SUBCOMPACT,4.7,8,Automatic with Select Shift,Premium Gasoline,15.2,6,2139.97
+GMC,SUV - STANDARD,5.3,8,Automatic,Regular Gasoline,13.8,6,2135.89
+FORD,PICKUP TRUCK - STANDARD,5.0,8,Automatic with Select Shift,Ethanol(E85),17.8,6,2108.92
+RAM,PICKUP TRUCK - STANDARD,5.7,8,Automatic,Regular Gasoline,12.8,8,2073.24
+AUDI,SUV - SMALL,3.0,6,Automated Manual,Premium Gasoline,11.5,8,2032.94
+AUDI,MID-SIZE,3.0,6,Automatic with Select Shift,Premium Gasoline,10.9,8,1881.81
+HYUNDAI,SUV - SMALL,2.4,4,Automatic with Select Shift,Regular Gasoline,10.3,6,2127.91
+HYUNDAI,MID-SIZE,2.0,4,Manual,Regular Gasoline,8.6,6,2030.35
+HONDA,SUV - SMALL,3.5,6,Automatic,Regular Gasoline,11.5,5,2003.43
+BMW,FULL-SIZE,3.0,6,Automatic with Select Shift,Diesel,8.8,8,1882.94
+VOLKSWAGEN,SUBCOMPACT,2.0,4,Automated Manual,Premium Gasoline,9.5,6,1924.33
+PORSCHE,FULL-SIZE,4.8,8,Automated Manual,Premium Gasoline,12.9,7,1969.81
+MAZDA,MID-SIZE,2.0,4,Automatic with Select Shift,Regular Gasoline,7.1,6,2135.74
+AUDI,SUV - STANDARD,2.0,4,Automatic with Select Shift,Premium Gasoline,11.0,8,2048.85
+BUICK,MID-SIZE,2.0,4,Automatic with Select Shift,Premium Gasoline,9.9,6,2065.83
+CADILLAC,MID-SIZE,6.2,8,Manual,Premium Gasoline,14.8,6,1979.95
+LEXUS,SUV - STANDARD,3.5,6,Continuously Variable,Premium Gasoline,8.1,6,2075.8
+CHEVROLET,SUV - STANDARD,3.6,6,Automatic,Regular Gasoline,12.3,6,1933.46
+PORSCHE,MINICOMPACT,3.8,6,Manual,Premium Gasoline,10.8,7,1953.16
+CHEVROLET,SUBCOMPACT,3.6,6,Automatic with Select Shift,Regular Gasoline,10.5,10,2021.58
+FORD,SUV - STANDARD,3.5,6,Automatic with Select Shift,Regular Gasoline,13.2,6,1923.82
+SUBARU,MID-SIZE,2.5,4,Manual,Regular Gasoline,9.4,6,2113.55
+GENESIS,COMPACT,2.0,4,Automatic with Select Shift,Premium Gasoline,10.2,8,1944.13
+BMW,SUV - SMALL,2.0,4,Automatic with Select Shift,Premium Gasoline,9.9,8,2007.53
+MERCEDES-BENZ,SUV - STANDARD,5.5,8,Automatic with Select Shift,Premium Gasoline,15.6,7,2127.88
+MERCEDES-BENZ,SUV - STANDARD,4.7,8,Automatic with Select Shift,Premium Gasoline,14.2,7,1976.08
+CADILLAC,MID-SIZE,2.0,4,Automatic with Select Shift,Premium Gasoline,9.5,8,2031.72
+PORSCHE,TWO-SEATER,3.8,6,Automated Manual,Premium Gasoline,14.0,7,2061.83
+FORD,VAN - PASSENGER,4.6,8,Automatic,Regular Gasoline,16.8,4,1994.3
+AUDI,COMPACT,2.0,4,Continuously Variable,Premium Gasoline,8.9,8,1946.72
+PORSCHE,MINICOMPACT,3.8,6,Manual,Premium Gasoline,11.2,7,2017.47
+CHEVROLET,SUV - SMALL,1.4,4,Manual,Regular Gasoline,8.1,6,2091.97
+AUDI,SUBCOMPACT,2.0,4,Automated Manual,Premium Gasoline,8.7,7,1987.67
+CHRYSLER,MID-SIZE,2.4,4,Automatic,Ethanol(E85),11.3,9,2062.1
+FORD,SUV - STANDARD,3.5,6,Automatic with Select Shift,Ethanol(E85),17.2,6,1945.36
+INFINITI,SUV - SMALL,3.5,6,Continuously Variable,Premium Gasoline,10.3,7,1982.15
+AUDI,MID-SIZE,2.9,6,Automatic with Select Shift,Premium Gasoline,10.9,8,2130.12
+PORSCHE,MINICOMPACT,3.0,6,Manual,Premium Gasoline,10.3,7,1895.68
+FIAT,MINICOMPACT,1.4,4,Manual,Regular Gasoline,7.2,5,2122.77
+AUDI,STATION WAGON - SMALL,2.0,4,Automatic with Select Shift,Premium Gasoline,10.5,8,1891.66
+BMW,SUBCOMPACT,3.0,6,Automated Manual,Premium Gasoline,10.5,7,2095.22
+AUDI,SUBCOMPACT,2.0,4,Automated Manual,Regular Gasoline,9.1,6,1978.77
+FORD,COMPACT,1.6,4,Manual,Regular Gasoline,8.2,6,2065.62
+KIA,MID-SIZE,3.3,6,Automatic with Select Shift,Premium Gasoline,11.3,8,1939.54
+MERCEDES-BENZ,TWO-SEATER,3.0,6,Automatic,Premium Gasoline,10.1,9,1925.15
+VOLKSWAGEN,COMPACT,2.0,4,Manual,Premium Gasoline,8.9,6,1901.66
+NISSAN,PICKUP TRUCK - SMALL,4.0,6,Automatic,Regular Gasoline,12.7,5,1879.71
+VOLVO,SUV - STANDARD,2.0,4,Automatic with Select Shift,Premium Gasoline,10.6,8,1977.83
+SUBARU,COMPACT,2.0,4,Continuously Variable,Premium Gasoline,11.2,8,1888.81
+BMW,SUBCOMPACT,3.0,6,Automatic with Select Shift,Premium Gasoline,10.2,8,1953.33
+SUBARU,COMPACT,2.0,4,Manual,Regular Gasoline,8.4,5,2112.29
+CHEVROLET,SUV - SMALL,2.4,4,Automatic with Select Shift,Regular Gasoline,10.6,6,2065.44
+MERCEDES-BENZ,TWO-SEATER,4.0,8,Automated Manual,Premium Gasoline,13.0,7,1989.94
+FORD,SUBCOMPACT,5.0,8,Automatic with Select Shift,Regular Gasoline,13.2,6,1883.38
+SUBARU,MID-SIZE,2.5,4,Manual,Regular Gasoline,9.9,6,1890.72
+CHEVROLET,VAN - CARGO,5.3,8,Automatic,Regular Gasoline,15.9,4,2143.77
+GMC,PICKUP TRUCK - SMALL,3.6,6,Automatic,Regular Gasoline,12.2,8,1995.48
+HONDA,PICKUP TRUCK - STANDARD,3.5,6,Automatic,Regular Gasoline,11.3,6,2036.75
+DODGE,SUV - SMALL,3.6,6,Automatic,Ethanol(E85),16.2,6,2075.93
+CHEVROLET,COMPACT,6.2,8,Automatic with Select Shift,Premium Gasoline,11.6,8,2041.97
+FORD,MID-SIZE,2.3,4,Manual,Premium Gasoline,10.9,6,2079.22
+LEXUS,SUBCOMPACT,3.5,6,Automatic with Select Shift,Premium Gasoline,10.6,6,2027.97
+HONDA,MID-SIZE,2.0,4,Continuously Variable,Regular Gasoline,4.8,0,2010.09
+CHEVROLET,COMPACT,1.4,4,Automatic with Select Shift,Regular Gasoline,7.8,6,1999.19
+MINI,SUBCOMPACT,2.0,4,Automatic with Select Shift,Premium Gasoline,8.2,6,2115.75
+LEXUS,MID-SIZE,4.6,8,Automatic with Select Shift,Premium Gasoline,12.9,8,2141.67
+ACURA,COMPACT,2.0,4,Automatic with Select Shift,Premium Gasoline,8.3,5,1980.09
+VOLVO,COMPACT,2.0,4,Automatic with Select Shift,Regular Gasoline,8.4,8,1932.99
+MINI,SUBCOMPACT,2.0,4,Manual,Premium Gasoline,9.0,6,2125.99
+MAZDA,SUV - SMALL,2.5,4,Automatic with Select Shift,Regular Gasoline,8.3,6,1954.66
+GENESIS,FULL-SIZE,3.3,6,Automatic with Select Shift,Premium Gasoline,11.8,8,2070.3
+FORD,SUV - STANDARD,3.5,6,Automatic with Select Shift,Regular Gasoline,14.4,6,1940.9
+MERCEDES-BENZ,STATION WAGON - MID-SIZE,3.0,6,Automatic with Select Shift,Premium Gasoline,10.8,7,2037.25
+CADILLAC,COMPACT,3.6,6,Automatic with Select Shift,Regular Gasoline,10.0,8,1962.61
+ROLLS-ROYCE,COMPACT,6.7,12,Automatic with Select Shift,Premium Gasoline,17.2,8,1889.04
+TOYOTA,SUV - STANDARD,3.5,6,Automatic with Select Shift,Regular Gasoline,11.6,6,1883.39
+MERCEDES-BENZ,TWO-SEATER,1.8,4,Manual,Premium Gasoline,9.0,6,1958.48
+PORSCHE,MINICOMPACT,3.8,6,Manual,Premium Gasoline,11.3,7,2001.83
+BMW,MID-SIZE,2.0,4,Automatic,Premium Gasoline,9.1,8,1995.65
+MAZDA,SUV - SMALL,2.5,4,Automatic with Select Shift,Regular Gasoline,9.3,6,1995.83
+BMW,SUV - STANDARD,3.0,6,Automatic with Select Shift,Premium Gasoline,10.5,8,2012.52
+AUDI,SUV - STANDARD,3.0,6,Automatic with Select Shift,Premium Gasoline,12.7,8,1912.71
+RAM,PICKUP TRUCK - STANDARD,3.0,6,Automatic,Diesel,9.8,8,2052.03
+CHEVROLET,PICKUP TRUCK - STANDARD,5.3,8,Automatic,Regular Gasoline,15.0,6,2083.98
+MAZDA,TWO-SEATER,2.0,4,Manual,Premium Gasoline,9.6,5,1995.87
+FORD,SUBCOMPACT,5.0,8,Manual,Regular Gasoline,13.6,6,2002.22
+BMW,SUBCOMPACT,4.4,8,Manual,Premium Gasoline,13.7,6,1911.01
+ALFA ROMEO,SUV - SMALL,2.9,6,Automatic,Premium Gasoline,12.4,8,1886.37
+CHEVROLET,TWO-SEATER,6.2,8,Manual,Premium Gasoline,15.6,7,1943.57
+MAZDA,SUV - SMALL,2.5,4,Automatic with Select Shift,Regular Gasoline,9.8,6,1993.24
+GMC,SUV - SMALL,3.6,6,Automatic,Regular Gasoline,12.8,6,1907.24
+BMW,SUV - STANDARD,4.4,8,Automatic with Select Shift,Premium Gasoline,13.7,8,1973.32
+CHRYSLER,MINIVAN,3.6,6,Automatic,Ethanol(E85),16.8,6,2004.01
+VOLKSWAGEN,SUV - SMALL,2.0,4,Automatic with Select Shift,Regular Gasoline,10.5,8,2021.82
+BMW,COMPACT,2.0,4,Automatic,Premium Gasoline,8.4,8,2074.28
+MERCEDES-BENZ,SUBCOMPACT,3.5,6,Automatic with Select Shift,Premium Gasoline,10.5,7,2018.44
+MASERATI,FULL-SIZE,3.0,6,Automatic with Select Shift,Premium Gasoline,13.0,8,1924.81
+LINCOLN,SUV - SMALL,2.0,4,Automatic with Select Shift,Regular Gasoline,10.8,6,1960.26
+CHEVROLET,COMPACT,1.6,4,Automatic,Diesel,6.5,9,1994.73
+LINCOLN,FULL-SIZE,2.7,6,Automatic with Select Shift,Regular Gasoline,12.0,6,2023.29
+SCION,MINICOMPACT,1.3,4,Continuously Variable,Regular Gasoline,6.4,0,1990.64
+AUDI,SUBCOMPACT,2.5,5,Automated Manual,Premium Gasoline,10.3,7,1983.17
+VOLKSWAGEN,STATION WAGON - SMALL,1.8,4,Manual,Regular Gasoline,9.3,6,2122.0
+TOYOTA,SUV - SMALL,3.5,6,Automatic with Select Shift,Regular Gasoline,10.9,6,2056.75
+CHEVROLET,SUV - STANDARD,3.6,6,Automatic,Regular Gasoline,12.6,6,2126.18
+GMC,SUV - STANDARD,2.5,4,Automatic,Regular Gasoline,10.4,6,1923.86
+LEXUS,SUV - STANDARD,4.6,8,Automatic with Select Shift,Premium Gasoline,14.6,6,2057.33
+BMW,SUBCOMPACT,4.4,8,Manual,Premium Gasoline,13.8,6,2005.73
+DODGE,FULL-SIZE,3.6,6,Automatic,Regular Gasoline,10.3,8,1963.47
+VOLVO,MID-SIZE,3.0,6,Automatic with Select Shift,Regular Gasoline,11.5,6,1891.42
+SUBARU,SUV - SMALL,2.5,4,Continuously Variable,Regular Gasoline,9.0,0,2115.86
+FORD,PICKUP TRUCK - STANDARD,3.5,6,Automatic with Select Shift,Regular Gasoline,12.5,6,1879.39
+CHEVROLET,PICKUP TRUCK - STANDARD,4.3,6,Automatic,Regular Gasoline,11.9,6,2099.13
+SUBARU,SUV - SMALL,2.5,4,Continuously Variable,Regular Gasoline,8.7,6,1976.76
+LEXUS,MID-SIZE,2.5,4,Continuously Variable,Regular Gasoline,5.9,6,2106.4
+SUBARU,SUV - SMALL,2.0,4,Continuously Variable,Regular Gasoline,8.1,6,1886.66
+MINI,MID-SIZE,2.0,4,Automatic with Select Shift,Premium Gasoline,8.5,6,1889.71
+ACURA,COMPACT,2.4,4,Automated Manual,Premium Gasoline,8.1,8,1984.68
+CADILLAC,SUV - STANDARD,6.2,8,Automatic,Premium Gasoline,16.4,6,2042.22
+SCION,COMPACT,2.5,4,Manual,Regular Gasoline,9.0,6,2052.34
+AUDI,SUV - SMALL,2.0,4,Automated Manual,Premium Gasoline,9.7,7,1954.79
+FORD,PICKUP TRUCK - STANDARD,2.7,6,Automatic with Select Shift,Regular Gasoline,11.6,10,2048.78
+FORD,COMPACT,2.0,4,Automatic,Regular Gasoline,7.7,6,1986.04
+AUDI,SUV - SMALL,2.0,4,Automatic with Select Shift,Regular Gasoline,10.6,8,1923.58
+LAMBORGHINI,TWO-SEATER,6.5,12,Automated Manual,Premium Gasoline,21.5,7,1911.59
+MERCEDES-BENZ,SUBCOMPACT,4.0,8,Automatic,Premium Gasoline,13.1,9,1943.56
+NISSAN,TWO-SEATER,3.7,6,Manual,Premium Gasoline,11.5,6,2116.92
+AUDI,SUBCOMPACT,2.5,5,Automated Manual,Premium Gasoline,10.6,7,1952.43
+MERCEDES-BENZ,SUV - SMALL,2.0,4,Automatic with Select Shift,Premium Gasoline,8.7,7,2026.03
+CHEVROLET,SUV - SMALL,1.5,4,Automatic,Regular Gasoline,8.4,6,1914.64
+KIA,STATION WAGON - MID-SIZE,2.0,4,Automatic with Select Shift,Regular Gasoline,9.0,6,2141.59
+MERCEDES-BENZ,MID-SIZE,3.5,6,Automatic with Select Shift,Premium Gasoline,10.0,7,2117.65
+BENTLEY,MID-SIZE,6.0,12,Automatic with Select Shift,Premium Gasoline,16.6,8,1922.72
+TOYOTA,MINIVAN,3.5,6,Automatic with Select Shift,Regular Gasoline,10.8,8,1935.96
+RAM,PICKUP TRUCK - STANDARD,3.0,6,Automatic,Diesel,10.8,8,2113.72
+KIA,STATION WAGON - MID-SIZE,2.0,4,Manual,Regular Gasoline,9.3,6,1956.55
+HONDA,STATION WAGON - SMALL,1.8,4,Manual,Regular Gasoline,8.4,6,1904.56
+MAZDA,MID-SIZE,2.5,4,Manual,Regular Gasoline,8.4,6,2037.98
+LEXUS,MID-SIZE,3.5,6,Continuously Variable,Premium Gasoline,8.4,10,1917.4
+PORSCHE,MINICOMPACT,3.8,6,Automated Manual,Premium Gasoline,11.4,7,1897.23
+PORSCHE,FULL-SIZE,4.8,8,Automated Manual,Premium Gasoline,12.8,7,2047.63
+MAZDA,COMPACT,2.0,4,Manual,Regular Gasoline,8.0,6,2138.14
+MERCEDES-BENZ,COMPACT,6.0,12,Automatic with Select Shift,Premium Gasoline,14.3,7,1928.25
+CADILLAC,MID-SIZE,3.6,6,Automatic with Select Shift,Regular Gasoline,11.2,6,2106.85
+GMC,SUV - STANDARD,6.2,8,Automatic,Premium Gasoline,14.7,6,2046.53
+KIA,SUV - SMALL,2.4,4,Automatic with Select Shift,Regular Gasoline,9.6,6,2109.19
+MINI,TWO-SEATER,1.6,4,Manual,Premium Gasoline,7.5,6,1966.51
+AUDI,MID-SIZE,3.0,6,Automatic with Select Shift,Premium Gasoline,10.0,8,1971.18
+FORD,PICKUP TRUCK - STANDARD,3.3,6,Automatic with Select Shift,Ethanol(E85),15.8,6,2030.68
+LINCOLN,FULL-SIZE,3.0,6,Automatic with Select Shift,Regular Gasoline,12.3,6,1937.45
+CHEVROLET,PICKUP TRUCK - SMALL,2.8,4,Automatic,Diesel,10.3,6,1959.18
+KIA,COMPACT,1.6,4,Automatic,Regular Gasoline,9.4,6,1911.05
+VOLKSWAGEN,MID-SIZE,3.6,6,Automated Manual,Regular Gasoline,10.4,6,2103.96
+MINI,MINICOMPACT,2.0,4,Automatic with Select Shift,Premium Gasoline,8.3,6,2004.54
+CHEVROLET,PICKUP TRUCK - STANDARD,4.3,6,Automatic,Regular Gasoline,14.8,6,1916.09
+LINCOLN,SUV - SMALL,2.0,4,Automatic with Select Shift,Regular Gasoline,11.0,6,2121.78
+CHEVROLET,FULL-SIZE,3.6,6,Automatic with Select Shift,Ethanol(E85),14.6,6,1935.96
+DODGE,FULL-SIZE,5.7,8,Automatic,Regular Gasoline,12.9,5,1889.49
+NISSAN,COMPACT,1.6,4,Continuously Variable,Regular Gasoline,6.6,0,2009.27
+VOLKSWAGEN,COMPACT,2.0,4,Automated Manual,Regular Gasoline,8.6,7,2052.4
+JAGUAR,TWO-SEATER,3.0,6,Automatic with Select Shift,Premium Gasoline,10.3,8,2023.82
+JEEP,SUV - SMALL,1.4,4,Manual,Regular Gasoline,8.9,6,2056.39
+TOYOTA,PICKUP TRUCK - SMALL,3.5,6,Automatic with Select Shift,Regular Gasoline,12.1,6,1990.27
+DODGE,MID-SIZE,2.0,4,Manual,Regular Gasoline,8.1,6,2100.65
+MERCEDES-BENZ,SUV - SMALL,3.5,6,Automatic with Select Shift,Premium Gasoline,11.3,7,2042.16
+INFINITI,SUBCOMPACT,3.7,6,Automatic with Select Shift,Premium Gasoline,11.1,7,1931.91
+MAZDA,SUV - SMALL,2.0,4,Automatic with Select Shift,Regular Gasoline,8.6,6,2116.16
+NISSAN,PICKUP TRUCK - SMALL,4.0,6,Manual,Regular Gasoline,13.1,6,1898.81
+CHEVROLET,TWO-SEATER,6.2,8,Automatic with Select Shift,Premium Gasoline,14.3,8,1974.93
+CADILLAC,COMPACT,2.0,4,Automatic with Select Shift,Premium Gasoline,9.3,8,2041.83
+MERCEDES-BENZ,TWO-SEATER,2.0,4,Automatic,Premium Gasoline,8.6,9,2138.16
+MINI,MINICOMPACT,2.0,4,Automatic with Select Shift,Premium Gasoline,8.7,6,1972.62
+MITSUBISHI,SUV - SMALL,3.0,6,Automatic with Select Shift,Premium Gasoline,10.4,6,1931.81
+NISSAN,MID-SIZE,3.5,6,Continuously Variable,Premium Gasoline,9.6,7,2055.02
+PORSCHE,TWO-SEATER,3.8,6,Automated Manual,Premium Gasoline,13.5,7,2096.86
+FIAT,STATION WAGON - SMALL,1.4,4,Manual,Regular Gasoline,8.4,6,1959.8
+CADILLAC,COMPACT,2.7,4,Automatic with Select Shift,Premium Gasoline,9.9,10,2014.9
+AUDI,COMPACT,2.0,4,Automatic with Select Shift,Premium Gasoline,10.3,6,2070.55
+MINI,MINICOMPACT,1.6,4,Manual,Premium Gasoline,7.8,6,2029.34
+FORD,SUV - STANDARD,3.5,6,Automatic with Select Shift,Regular Gasoline,13.7,6,2114.91
+LAND ROVER,SUV - STANDARD,3.0,6,Automatic with Select Shift,Premium Gasoline,11.0,8,1928.74
+MERCEDES-BENZ,SPECIAL PURPOSE VEHICLE,2.0,4,Automatic with Select Shift,Premium Gasoline,10.2,7,2102.74
+JAGUAR,MINICOMPACT,5.0,8,Automatic with Select Shift,Premium Gasoline,13.6,6,1898.88
+FORD,FULL-SIZE,3.5,6,Automatic with Select Shift,Regular Gasoline,10.3,6,1966.37
+JAGUAR,TWO-SEATER,3.0,6,Manual,Premium Gasoline,12.9,6,2109.89
+ACURA,SUV - SMALL,3.5,6,Automatic with Select Shift,Premium Gasoline,11.1,9,2020.23
+LINCOLN,MID-SIZE,2.0,4,Automatic with Select Shift,Regular Gasoline,10.4,6,2126.46
+ACURA,COMPACT,3.5,6,Automatic with Select Shift,Premium Gasoline,9.6,9,2044.52
+BUICK,SUV - SMALL,1.4,4,Automatic with Select Shift,Regular Gasoline,8.3,6,2090.5
+CHEVROLET,COMPACT,3.6,6,Manual,Regular Gasoline,11.7,6,1940.48
+HONDA,STATION WAGON - SMALL,1.5,4,Continuously Variable,Regular Gasoline,6.8,7,2009.02
+SCION,MINICOMPACT,2.0,4,Manual,Premium Gasoline,9.6,6,2005.8
+LEXUS,COMPACT,2.0,4,Automatic with Select Shift,Premium Gasoline,9.5,8,1956.62
+INFINITI,SUBCOMPACT,3.0,6,Automatic with Select Shift,Premium Gasoline,10.8,7,2001.39
+MINI,MID-SIZE,2.0,4,Automatic with Select Shift,Premium Gasoline,9.2,8,2053.05
+ACURA,TWO-SEATER,3.5,6,Automated Manual,Premium Gasoline,11.0,9,2127.12
+CHEVROLET,PICKUP TRUCK - SMALL,2.5,4,Automatic,Regular Gasoline,11.3,6,2021.85
+PORSCHE,FULL-SIZE,3.0,6,Automated Manual,Premium Gasoline,11.4,7,1904.24
+ALFA ROMEO,TWO-SEATER,1.8,4,Automated Manual,Premium Gasoline,8.4,6,1980.44
+INFINITI,COMPACT,3.5,6,Automatic with Select Shift,Premium Gasoline,8.2,7,1959.73
+FORD,COMPACT,2.0,4,Automatic with Select Shift,Regular Gasoline,7.8,6,1946.82
+KIA,FULL-SIZE,2.0,4,Automatic with Select Shift,Regular Gasoline,9.4,6,1995.89
+CHEVROLET,PICKUP TRUCK - SMALL,3.6,6,Automatic,Regular Gasoline,11.7,8,1962.36
+MINI,MINICOMPACT,1.6,4,Automatic with Select Shift,Premium Gasoline,7.7,6,2088.51
+KIA,MID-SIZE,2.4,4,Automatic,Regular Gasoline,8.7,6,1996.31
+BUICK,MID-SIZE,3.6,6,Automatic with Select Shift,Regular Gasoline,10.1,9,2113.26
+MINI,MID-SIZE,2.0,4,Manual,Premium Gasoline,9.9,6,1958.68
+CHEVROLET,TWO-SEATER,6.2,8,Manual,Premium Gasoline,13.4,7,2140.73
+BMW,COMPACT,3.0,6,Automatic,Premium Gasoline,8.3,8,1911.2
+JEEP,SUV - SMALL,3.0,6,Automatic,Diesel,9.5,8,2044.99
+AUDI,MID-SIZE,3.0,6,Automatic with Select Shift,Premium Gasoline,11.2,8,1910.94
+CHEVROLET,PICKUP TRUCK - STANDARD,5.3,8,Automatic,Regular Gasoline,13.7,8,1937.87
+GMC,PICKUP TRUCK - STANDARD,2.7,4,Automatic,Regular Gasoline,11.8,8,2093.01
+LAMBORGHINI,TWO-SEATER,5.2,10,Automated Manual,Premium Gasoline,15.0,7,2025.29
+CHEVROLET,SUV - SMALL,1.5,4,Automatic,Regular Gasoline,8.3,6,1976.82
+MERCEDES-BENZ,MID-SIZE,4.7,8,Automatic with Select Shift,Premium Gasoline,12.2,7,1894.0
+MERCEDES-BENZ,SUBCOMPACT,4.7,8,Automatic with Select Shift,Premium Gasoline,11.7,7,2111.4
+FORD,SUV - SMALL,1.5,4,Automatic with Select Shift,Regular Gasoline,9.1,6,2053.08
+TOYOTA,SUV - STANDARD,5.7,8,Automatic with Select Shift,Regular Gasoline,16.6,6,1888.34
+KIA,MID-SIZE,2.0,4,Automatic with Select Shift,Premium Gasoline,9.7,8,1975.01
+DODGE,MID-SIZE,5.7,8,Manual,Regular Gasoline,13.1,6,2012.67
+BMW,SUBCOMPACT,2.0,4,Automatic with Select Shift,Premium Gasoline,9.4,8,1888.77
+BMW,FULL-SIZE,4.4,8,Automatic with Select Shift,Premium Gasoline,11.7,8,1900.87
+HYUNDAI,FULL-SIZE,1.6,4,Automated Manual,Regular Gasoline,4.3,6,2050.33
+INFINITI,MID-SIZE,3.0,6,Automatic with Select Shift,Premium Gasoline,11.1,7,2116.58
+FORD,SUV - SMALL,2.0,4,Automatic,Regular Gasoline,10.0,8,1968.86
+CHEVROLET,SUV - STANDARD,5.3,8,Automatic,Regular Gasoline,13.0,6,1888.46
+BENTLEY,COMPACT,6.0,12,Automatic with Select Shift,Premium Gasoline,16.6,8,2005.92
+DODGE,MID-SIZE,3.6,6,Automatic,Regular Gasoline,10.3,8,2085.55
+MERCEDES-BENZ,TWO-SEATER,6.0,8,Automatic with Select Shift,Premium Gasoline,14.2,7,2085.08
+MITSUBISHI,SUV - SMALL,2.0,4,Continuously Variable,Regular Gasoline,8.8,6,2092.14
+AUDI,STATION WAGON - SMALL,2.0,4,Automatic with Select Shift,Premium Gasoline,9.9,8,2085.49
+BMW,STATION WAGON - SMALL,2.0,4,Automatic,Diesel,6.7,8,2070.0
+NISSAN,PICKUP TRUCK - STANDARD,5.6,8,Automatic with Select Shift,Premium Gasoline,13.3,9,1898.25
+BMW,MID-SIZE,4.4,8,Automatic with Select Shift,Premium Gasoline,12.3,8,2058.73
+GMC,SUV - STANDARD,5.3,8,Automatic,Regular Gasoline,13.4,6,2133.18
+JAGUAR,COMPACT,2.0,4,Automatic with Select Shift,Diesel,6.9,8,2011.02
+KIA,MID-SIZE,2.4,4,Automated Manual,Regular Gasoline,6.3,6,1949.83
+GMC,SUV - STANDARD,2.0,4,Automatic,Regular Gasoline,9.8,9,2111.34
+FORD,SUV - STANDARD,3.5,6,Automatic with Select Shift,Ethanol(E85),15.9,6,2082.47
+TOYOTA,SUV - SMALL,3.5,6,Automatic with Select Shift,Regular Gasoline,11.2,6,2025.92
+SCION,STATION WAGON - SMALL,2.4,4,Manual,Regular Gasoline,9.9,5,1881.38
+CADILLAC,MID-SIZE,2.0,4,Automatic with Select Shift,Premium Gasoline,10.6,6,1990.14
+FORD,SUV - SMALL,2.7,6,Automatic with Select Shift,Regular Gasoline,11.9,6,1985.64
+MERCEDES-BENZ,SUV - STANDARD,5.5,8,Automatic,Premium Gasoline,15.7,7,2075.15
+BMW,TWO-SEATER,2.0,4,Manual,Premium Gasoline,8.7,6,2133.83
+HONDA,COMPACT,1.8,4,Manual,Regular Gasoline,7.6,5,2010.56
+MERCEDES-BENZ,FULL-SIZE,6.0,12,Automatic with Select Shift,Premium Gasoline,14.9,7,1997.16
+MINI,MINICOMPACT,1.5,3,Automated Manual,Premium Gasoline,7.5,7,2035.22
+KIA,FULL-SIZE,3.8,6,Automatic with Select Shift,Regular Gasoline,11.3,8,2033.52
+FORD,COMPACT,2.0,4,Manual,Regular Gasoline,8.0,5,2055.53
+MERCEDES-BENZ,MID-SIZE,3.5,6,Automatic with Select Shift,Premium Gasoline,8.8,7,1935.77
+INFINITI,SUV - STANDARD,5.6,8,Automatic with Select Shift,Premium Gasoline,15.0,7,1991.05
+GMC,PICKUP TRUCK - STANDARD,4.3,6,Automatic,Regular Gasoline,11.9,6,2097.26
+NISSAN,COMPACT,1.6,4,Automatic,Regular Gasoline,7.8,4,2029.67
+GMC,SUV - STANDARD,5.3,8,Automatic,Ethanol(E85),17.6,6,1986.85
+MINI,TWO-SEATER,1.6,4,Manual,Premium Gasoline,8.0,6,1919.36
+BMW,SUBCOMPACT,3.0,6,Automated Manual,Premium Gasoline,12.7,7,1927.46
+FORD,SUBCOMPACT,5.0,8,Automatic with Select Shift,Regular Gasoline,12.9,6,1896.9
+CHEVROLET,SUV - SMALL,3.6,6,Automatic,Ethanol(E85),17.0,6,2120.71
+CHEVROLET,PICKUP TRUCK - STANDARD,4.3,6,Automatic,Regular Gasoline,12.5,6,2027.84
+FORD,SUBCOMPACT,2.3,4,Automatic with Select Shift,Regular Gasoline,9.9,6,2070.29
+DODGE,TWO-SEATER,8.4,10,Manual,Premium Gasoline,15.6,6,2063.56
+INFINITI,MID-SIZE,3.5,6,Automatic with Select Shift,Premium Gasoline,7.6,7,2039.04
+CHEVROLET,SUV - STANDARD,5.3,8,Automatic,Regular Gasoline,13.3,6,1907.35
+LEXUS,SUBCOMPACT,2.0,4,Automatic with Select Shift,Premium Gasoline,9.0,8,1996.31
+JAGUAR,MINICOMPACT,5.0,8,Automatic with Select Shift,Premium Gasoline,12.6,6,1960.64
+DODGE,MID-SIZE,6.2,8,Automatic,Premium Gasoline,14.5,8,1878.59
+BMW,MID-SIZE,4.4,8,Automated Manual,Premium Gasoline,14.7,7,2013.81
+MITSUBISHI,STATION WAGON - SMALL,2.0,4,Manual,Regular Gasoline,8.7,5,2125.92
+PORSCHE,MINICOMPACT,3.4,6,Manual,Premium Gasoline,10.7,7,2135.46
+PORSCHE,MINICOMPACT,3.4,6,Manual,Premium Gasoline,11.0,7,1910.31
+FORD,FULL-SIZE,3.5,6,Automatic with Select Shift,Ethanol(E85),16.0,6,2087.88
+NISSAN,MID-SIZE,2.0,4,Continuously Variable,Regular Gasoline,7.1,0,1884.16
+ACURA,COMPACT,2.4,4,Automated Manual,Premium Gasoline,8.3,8,1916.0
+MINI,MINICOMPACT,1.5,3,Manual,Premium Gasoline,7.4,6,1916.32
+BMW,COMPACT,3.0,6,Automatic with Select Shift,Premium Gasoline,9.3,8,1953.56
+MERCEDES-BENZ,SUBCOMPACT,3.5,6,Automatic with Select Shift,Premium Gasoline,10.0,7,1884.47
+SCION,STATION WAGON - SMALL,2.4,4,Automatic with Select Shift,Regular Gasoline,9.9,4,1933.45
+AUDI,SUBCOMPACT,2.0,4,Automatic with Select Shift,Premium Gasoline,9.7,8,1897.58
+BMW,SUV - SMALL,2.0,4,Automatic with Select Shift,Premium Gasoline,9.5,8,2065.51
+HYUNDAI,MID-SIZE,2.0,4,Manual,Regular Gasoline,7.9,6,2108.61
+MERCEDES-BENZ,MID-SIZE,2.0,4,Automatic,Premium Gasoline,9.7,9,2020.43
+PORSCHE,MINICOMPACT,3.8,6,Automated Manual,Premium Gasoline,11.2,7,1895.09
+KIA,STATION WAGON - SMALL,2.0,4,Automatic,Regular Gasoline,8.8,6,1939.88
+CHEVROLET,COMPACT,1.4,4,Automatic with Select Shift,Regular Gasoline,7.1,6,1903.75
+FORD,SUV - STANDARD,3.5,6,Automatic with Select Shift,Regular Gasoline,14.4,6,2140.8
+DODGE,FULL-SIZE,6.2,8,Automatic,Premium Gasoline,14.5,8,2009.33
+LEXUS,COMPACT,3.5,6,Automatic with Select Shift,Premium Gasoline,10.6,8,1923.34
+FORD,SUV - SMALL,2.0,4,Automatic with Select Shift,Regular Gasoline,10.5,6,2029.19
+VOLKSWAGEN,MID-SIZE,1.8,4,Manual,Regular Gasoline,8.1,6,1945.42
+CHEVROLET,PICKUP TRUCK - STANDARD,6.2,8,Automatic,Premium Gasoline,14.2,8,2043.58
+AUDI,TWO-SEATER,5.2,10,Manual,Premium Gasoline,17.8,6,2001.7
+KIA,MINIVAN,3.3,6,Automatic with Select Shift,Regular Gasoline,11.6,6,2042.92
+FORD,SUBCOMPACT,2.3,4,Automatic with Select Shift,Regular Gasoline,9.6,6,2094.69
+AUDI,SUBCOMPACT,2.5,5,Automated Manual,Premium Gasoline,10.4,7,2010.67
+FORD,SPECIAL PURPOSE VEHICLE,2.0,4,Automatic with Select Shift,Regular Gasoline,9.2,8,1920.9
+GMC,PICKUP TRUCK - STANDARD,5.3,8,Automatic,Regular Gasoline,13.7,8,2000.16
+NISSAN,SUBCOMPACT,3.8,6,Automated Manual,Premium Gasoline,12.9,6,2030.19
+CADILLAC,COMPACT,3.6,6,Automatic with Select Shift,Premium Gasoline,11.9,8,1933.18
+FORD,SUBCOMPACT,1.6,4,Manual,Regular Gasoline,8.2,6,2104.79
+SUBARU,SUV - SMALL,2.0,4,Continuously Variable,Regular Gasoline,7.5,6,2060.35
+CHEVROLET,PICKUP TRUCK - SMALL,2.5,4,Automatic,Regular Gasoline,10.8,6,1910.86
+BMW,MID-SIZE,3.0,6,Automatic with Select Shift,Diesel,7.9,8,2084.96
+CADILLAC,MID-SIZE,3.6,6,Automatic with Select Shift,Premium Gasoline,12.7,8,2079.76
+INFINITI,MID-SIZE,3.7,6,Automatic with Select Shift,Premium Gasoline,10.2,7,2035.4
+VOLVO,SUV - SMALL,2.0,4,Automatic with Select Shift,Premium Gasoline,10.4,8,2015.94
+CHEVROLET,PICKUP TRUCK - STANDARD,5.3,8,Automatic,Regular Gasoline,12.6,10,2010.79
+INFINITI,COMPACT,2.0,4,Automated Manual,Premium Gasoline,9.4,7,1903.47
+LINCOLN,SPECIAL PURPOSE VEHICLE,3.7,6,Automatic,Regular Gasoline,12.2,6,1889.55
+MERCEDES-BENZ,SPECIAL PURPOSE VEHICLE,2.0,4,Automatic with Select Shift,Premium Gasoline,10.2,7,2093.27
+MERCEDES-BENZ,STATION WAGON - MID-SIZE,3.5,6,Automatic with Select Shift,Premium Gasoline,10.5,7,1988.26
+RAM,PICKUP TRUCK - STANDARD,3.0,6,Automatic,Diesel,9.0,8,2030.24
+FORD,PICKUP TRUCK - STANDARD,5.0,8,Automatic with Select Shift,Ethanol(E85),18.7,6,2049.11
+TOYOTA,MID-SIZE,1.8,4,Continuously Variable,Regular Gasoline,7.3,0,2113.85
+BMW,SUV - STANDARD,3.0,6,Automatic,Premium Gasoline,11.9,8,2057.97
+TOYOTA,SUV - SMALL,3.5,6,Automatic with Select Shift,Regular Gasoline,10.9,6,1998.13
+KIA,SUV - SMALL,2.4,4,Automatic with Select Shift,Regular Gasoline,10.0,6,2018.88
+AUDI,MID-SIZE,2.0,4,Automated Manual,Premium Gasoline,8.7,7,1940.55
+BMW,MID-SIZE,2.0,4,Automatic with Select Shift,Premium Gasoline,8.9,8,2110.47
+NISSAN,TWO-SEATER,3.7,6,Automatic with Select Shift,Premium Gasoline,11.5,7,2039.97
+VOLVO,SUV - SMALL,2.5,5,Automatic with Select Shift,Regular Gasoline,11.0,6,1895.31
+TOYOTA,COMPACT,2.0,4,Manual,Regular Gasoline,7.4,6,2079.21
+VOLVO,SUV - SMALL,2.0,4,Automatic with Select Shift,Premium Gasoline,9.9,8,2143.81
+BMW,SUBCOMPACT,2.0,4,Manual,Premium Gasoline,9.0,6,2125.79
+MAZDA,TWO-SEATER,2.0,4,Automatic with Select Shift,Premium Gasoline,8.0,6,2058.57
+VOLKSWAGEN,COMPACT,2.0,4,Automatic,Diesel,7.4,6,2046.87
+PORSCHE,MINICOMPACT,3.8,6,Automated Manual,Premium Gasoline,10.5,7,2143.52
+FORD,PICKUP TRUCK - STANDARD,3.5,6,Automatic with Select Shift,Regular Gasoline,13.4,6,2091.78
+SUBARU,MINICOMPACT,2.0,4,Automatic with Select Shift,Premium Gasoline,8.4,6,1973.85
+BMW,TWO-SEATER,2.0,4,Manual,Premium Gasoline,9.0,6,2110.22
+SUBARU,STATION WAGON - SMALL,2.5,4,Manual,Premium Gasoline,11.2,5,2129.68
+BMW,COMPACT,3.0,6,Automatic with Select Shift,Premium Gasoline,9.6,8,1996.29
+BENTLEY,MID-SIZE,4.0,8,Automatic with Select Shift,Premium Gasoline,15.1,8,1977.98
+GMC,VAN - PASSENGER,6.0,8,Automatic,Regular Gasoline,18.8,6,2021.39
+INFINITI,MID-SIZE,3.7,6,Automatic with Select Shift,Premium Gasoline,11.7,7,1918.76
+MITSUBISHI,COMPACT,2.4,4,Continuously Variable,Regular Gasoline,8.9,6,2099.36
+NISSAN,COMPACT,1.6,4,Manual,Regular Gasoline,7.7,5,1933.62
+HYUNDAI,MID-SIZE,2.0,4,Automatic with Select Shift,Regular Gasoline,8.3,6,2076.66
+HYUNDAI,SUV - SMALL,2.4,4,Automatic with Select Shift,Regular Gasoline,11.1,6,1972.84
+GMC,SUV - SMALL,3.6,6,Automatic,Regular Gasoline,12.1,6,1950.39
+FORD,SUV - STANDARD,3.5,6,Automatic with Select Shift,Regular Gasoline,14.3,6,2101.97
+BMW,SUV - SMALL,3.0,6,Automatic with Select Shift,Premium Gasoline,11.2,8,2140.27
+CHEVROLET,MID-SIZE,1.8,4,Automatic with Select Shift,Regular Gasoline,8.3,6,1970.82
+FORD,MID-SIZE,2.0,4,Automatic with Select Shift,Regular Gasoline,8.9,6,2126.22
+FORD,FULL-SIZE,2.0,4,Continuously Variable,Regular Gasoline,6.0,0,1928.23
+TOYOTA,SUV - SMALL,2.5,4,Automatic with Select Shift,Regular Gasoline,9.2,6,1985.22
+MASERATI,FULL-SIZE,3.0,6,Automatic with Select Shift,Premium Gasoline,13.1,8,1974.06
+INFINITI,SUBCOMPACT,3.7,6,Manual,Premium Gasoline,12.3,6,2042.87
+ACURA,SUV - SMALL,3.5,6,Automatic with Select Shift,Premium Gasoline,11.0,9,1972.72
+FORD,SUV - SMALL,3.5,6,Automatic with Select Shift,Regular Gasoline,11.4,6,1945.08
+HONDA,MID-SIZE,2.4,4,Continuously Variable,Regular Gasoline,7.8,0,2051.36
+CADILLAC,MID-SIZE,3.6,6,Automatic with Select Shift,Regular Gasoline,10.8,8,2003.34
+MERCEDES-BENZ,SUBCOMPACT,2.0,4,Automated Manual,Premium Gasoline,8.5,7,2064.82
+TOYOTA,PICKUP TRUCK - STANDARD,4.6,8,Automatic with Select Shift,Regular Gasoline,15.1,6,2023.78
+CHEVROLET,SUBCOMPACT,2.0,4,Manual,Premium Gasoline,10.1,6,1986.61
+MASERATI,SUBCOMPACT,4.7,8,Automatic with Select Shift,Premium Gasoline,15.1,6,2012.15
+CHEVROLET,SUBCOMPACT,6.2,8,Automatic with Select Shift,Premium Gasoline,15.6,10,2099.18
+VOLKSWAGEN,SUV - STANDARD,3.6,6,Automatic with Select Shift,Regular Gasoline,12.4,8,2072.14
+MERCEDES-BENZ,TWO-SEATER,4.7,8,Automatic with Select Shift,Premium Gasoline,11.9,7,1967.79
+AUDI,FULL-SIZE,3.0,6,Automatic with Select Shift,Premium Gasoline,11.2,8,2007.43
+MINI,MINICOMPACT,2.0,4,Automated Manual,Premium Gasoline,8.1,7,1885.99
+CADILLAC,FULL-SIZE,3.6,6,Automatic with Select Shift,Regular Gasoline,11.0,10,2114.51
+GMC,PICKUP TRUCK - STANDARD,2.7,4,Automatic,Regular Gasoline,11.1,8,2137.47
+GMC,PICKUP TRUCK - STANDARD,5.3,8,Automatic,Regular Gasoline,13.5,8,2079.25
+MINI,MID-SIZE,1.5,3,Manual,Premium Gasoline,9.1,6,2115.48
+BMW,COMPACT,3.0,6,Manual,Premium Gasoline,11.6,6,1923.03
+HYUNDAI,SUV - SMALL,2.4,4,Automatic with Select Shift,Regular Gasoline,11.1,6,1972.63
+JEEP,SUV - SMALL,3.2,6,Automatic,Regular Gasoline,11.0,9,1915.12
+BMW,COMPACT,3.0,6,Automatic with Select Shift,Premium Gasoline,10.3,8,1891.74
+TOYOTA,SUV - SMALL,3.5,6,Automatic with Select Shift,Regular Gasoline,10.3,8,1979.35
+MITSUBISHI,SUV - SMALL,2.0,4,Continuously Variable,Regular Gasoline,9.0,6,2022.71
+TOYOTA,MID-SIZE,2.5,4,Automatic with Select Shift,Regular Gasoline,8.6,6,2092.67
+AUDI,MID-SIZE,2.0,4,Automatic with Select Shift,Premium Gasoline,9.2,8,2110.82
+LINCOLN,FULL-SIZE,3.0,6,Automatic with Select Shift,Regular Gasoline,12.3,6,1942.79
+NISSAN,PICKUP TRUCK - SMALL,4.0,6,Automatic,Regular Gasoline,12.7,5,2111.0
+FORD,PICKUP TRUCK - STANDARD,5.0,8,Automatic with Select Shift,Regular Gasoline,13.9,10,2120.47
+KIA,SUV - SMALL,2.4,4,Manual,Regular Gasoline,11.3,6,2042.06
+BMW,MID-SIZE,4.4,8,Automatic with Select Shift,Premium Gasoline,12.4,8,2088.0
+TOYOTA,SUV - SMALL,2.7,4,Automatic with Select Shift,Regular Gasoline,10.4,6,2133.99
+MINI,MID-SIZE,2.0,4,Manual,Premium Gasoline,9.7,6,2017.21
+VOLKSWAGEN,COMPACT,1.4,4,Automated Manual,Premium Gasoline,5.4,7,1909.8
+MERCEDES-BENZ,FULL-SIZE,4.7,8,Automatic with Select Shift,Premium Gasoline,12.1,7,1928.52
+RAM,PICKUP TRUCK - STANDARD,5.7,8,Automatic,Regular Gasoline,12.4,8,2037.04
+NISSAN,STATION WAGON - SMALL,2.0,4,Continuously Variable,Regular Gasoline,8.2,8,2060.76
+GMC,SUV - STANDARD,2.5,4,Automatic,Regular Gasoline,10.2,6,1982.44
+FORD,MID-SIZE,2.5,4,Automatic with Select Shift,Regular Gasoline,8.9,6,1960.08
+MERCEDES-BENZ,COMPACT,5.5,8,Automatic with Select Shift,Premium Gasoline,13.8,7,2084.22
+LEXUS,MID-SIZE,3.4,6,Automatic with Select Shift,Premium Gasoline,11.0,10,2067.31
+BMW,SUV - STANDARD,4.4,8,Automatic with Select Shift,Premium Gasoline,14.6,8,2109.55
+VOLKSWAGEN,STATION WAGON - SMALL,1.4,4,Automatic with Select Shift,Regular Gasoline,7.6,8,2048.68
+DODGE,MID-SIZE,3.6,6,Automatic,Ethanol(E85),14.4,6,2057.16
+VOLKSWAGEN,COMPACT,1.4,4,Manual,Regular Gasoline,7.0,6,2008.05
+GMC,VAN - PASSENGER,6.0,8,Automatic,Regular Gasoline,19.0,6,1981.88
+DODGE,FULL-SIZE,6.4,8,Automatic,Premium Gasoline,12.9,8,2044.03
+RAM,PICKUP TRUCK - STANDARD,5.7,8,Automatic,Regular Gasoline,15.4,6,2038.93
+BENTLEY,SUBCOMPACT,4.0,8,Automatic with Select Shift,Premium Gasoline,14.2,8,1936.85
+CHRYSLER,MID-SIZE,3.6,6,Automatic,Ethanol(E85),14.4,6,1974.36
+ACURA,SUV - SMALL,3.5,6,Automatic with Select Shift,Premium Gasoline,10.7,6,1901.54
+HYUNDAI,COMPACT,2.0,4,Manual,Regular Gasoline,9.5,6,2056.77
+BMW,SUBCOMPACT,3.0,6,Automated Manual,Premium Gasoline,12.1,7,1916.32
+VOLKSWAGEN,SUBCOMPACT,1.8,4,Automatic with Select Shift,Regular Gasoline,8.4,6,2010.73
+ACURA,SUV - SMALL,3.5,6,Automatic with Select Shift,Premium Gasoline,10.8,9,2141.3
+MAZDA,MINIVAN,2.5,4,Manual,Regular Gasoline,9.8,6,2119.91
+MERCEDES-BENZ,SUBCOMPACT,3.0,6,Automatic,Premium Gasoline,11.1,9,2075.3
+TOYOTA,SUV - STANDARD,3.5,6,Automatic with Select Shift,Regular Gasoline,10.6,8,2096.85
+PORSCHE,MINICOMPACT,3.4,6,Manual,Premium Gasoline,10.9,7,2064.31
+FORD,SUV - SMALL,2.7,6,Automatic with Select Shift,Regular Gasoline,12.0,6,2137.23
+HYUNDAI,COMPACT,1.6,4,Manual,Regular Gasoline,7.6,6,1925.06
+BMW,COMPACT,2.0,4,Automatic,Premium Gasoline,9.1,8,2048.42
+HYUNDAI,MID-SIZE,1.8,4,Automatic with Select Shift,Regular Gasoline,7.5,6,1985.23
+LINCOLN,SUV - STANDARD,3.0,6,Automatic with Select Shift,Regular Gasoline,11.9,10,1976.72
+JEEP,SUV - SMALL,2.4,4,Automatic,Ethanol(E85),12.9,9,2135.45
+NISSAN,MID-SIZE,1.6,4,Continuously Variable,Premium Gasoline,8.2,7,2097.98
+LINCOLN,SPECIAL PURPOSE VEHICLE,2.0,4,Automatic with Select Shift,Regular Gasoline,10.2,6,1957.61
+PORSCHE,MINICOMPACT,3.0,6,Automated Manual,Premium Gasoline,10.0,7,2026.75
+NISSAN,SUV - SMALL,3.5,6,Continuously Variable,Regular Gasoline,10.7,0,2062.7
+AUDI,SUBCOMPACT,2.0,4,Automated Manual,Premium Gasoline,8.7,7,2030.68
+BUICK,MID-SIZE,3.6,6,Automatic with Select Shift,Ethanol(E85),15.8,6,1977.88
+BENTLEY,SUV - STANDARD,6.0,12,Automatic with Select Shift,Premium Gasoline,15.9,8,1895.95
+AUDI,COMPACT,3.0,6,Automatic,Premium Gasoline,11.4,7,2069.52
+MERCEDES-BENZ,SUV - SMALL,3.5,6,Automatic with Select Shift,Premium Gasoline,11.2,7,2073.88
+VOLVO,STATION WAGON - SMALL,2.0,4,Automatic with Select Shift,Regular Gasoline,8.3,8,1979.29
+CHRYSLER,MID-SIZE,2.4,4,Automatic,Regular Gasoline,8.5,9,1894.97
+MERCEDES-BENZ,TWO-SEATER,5.5,8,Automatic,Premium Gasoline,12.4,7,1893.78
+MERCEDES-BENZ,SUV - STANDARD,3.0,6,Automatic,Diesel,9.2,9,2069.42
+NISSAN,SUV - SMALL,2.5,4,Continuously Variable,Regular Gasoline,8.6,0,2071.41
+JEEP,SUV - SMALL,3.2,6,Automatic,Regular Gasoline,10.5,9,2115.3
+CADILLAC,COMPACT,2.0,4,Automatic with Select Shift,Premium Gasoline,9.4,8,1978.3
+BMW,SUBCOMPACT,3.0,6,Automatic with Select Shift,Premium Gasoline,10.0,8,2037.49
+FORD,SUV - SMALL,2.5,4,Automatic with Select Shift,Regular Gasoline,9.6,6,2056.74
+MAZDA,MID-SIZE,2.0,4,Manual,Regular Gasoline,7.8,6,2076.76
+DODGE,FULL-SIZE,3.6,6,Automatic,Ethanol(E85),14.8,8,2134.21
+MERCEDES-BENZ,SUV - STANDARD,4.7,8,Automatic,Premium Gasoline,15.8,7,1976.05
+BMW,SUV - SMALL,2.0,4,Automatic with Select Shift,Diesel,8.0,8,2042.51
+FORD,SUV - STANDARD,2.3,4,Automatic with Select Shift,Regular Gasoline,11.4,6,2109.51
+FORD,PICKUP TRUCK - STANDARD,2.7,6,Automatic with Select Shift,Regular Gasoline,12.0,6,2112.03
+BMW,SUV - STANDARD,4.4,8,Automatic with Select Shift,Premium Gasoline,12.6,8,1930.02
+BMW,SUV - SMALL,2.0,4,Automatic with Select Shift,Premium Gasoline,9.3,8,1942.67
+JAGUAR,MID-SIZE,5.0,8,Automatic with Select Shift,Premium Gasoline,13.2,8,1975.27
+MERCEDES-BENZ,MID-SIZE,4.0,8,Automatic,Premium Gasoline,13.3,9,1948.15
+MERCEDES-BENZ,SUV - STANDARD,6.0,12,Automatic with Select Shift,Premium Gasoline,21.4,7,1939.45
+GMC,SUV - STANDARD,5.3,8,Automatic,Regular Gasoline,13.2,6,2121.17
+JEEP,SUV - SMALL,2.4,4,Automatic,Regular Gasoline,10.0,9,2039.0
+NISSAN,MID-SIZE,2.5,4,Continuously Variable,Regular Gasoline,7.9,0,2087.43
+CADILLAC,SUV - STANDARD,3.6,6,Automatic with Select Shift,Regular Gasoline,12.3,6,2024.91
+CHRYSLER,MID-SIZE,2.4,4,Automatic,Regular Gasoline,8.5,9,1891.35
+VOLKSWAGEN,SUV - STANDARD,3.0,6,Automatic with Select Shift,Diesel,10.2,8,1997.16
+JEEP,SUV - SMALL,2.4,4,Automatic,Regular Gasoline,10.2,9,1936.11
+PORSCHE,SUV - STANDARD,3.0,6,Automatic,Diesel,10.2,8,1950.92
+FORD,PICKUP TRUCK - STANDARD,2.7,6,Automatic with Select Shift,Regular Gasoline,10.8,6,2090.92
+VOLVO,SUV - SMALL,2.0,4,Automatic with Select Shift,Regular Gasoline,8.8,8,1995.15
+PORSCHE,MINICOMPACT,3.8,6,Manual,Premium Gasoline,11.6,7,2038.19
+BENTLEY,MID-SIZE,6.8,8,Automatic with Select Shift,Premium Gasoline,17.5,8,1943.92
+PORSCHE,MINICOMPACT,3.8,6,Automated Manual,Premium Gasoline,11.1,7,1879.3
+TOYOTA,TWO-SEATER,3.0,6,Automatic with Select Shift,Premium Gasoline,8.9,8,1938.54
+AUDI,COMPACT,2.0,4,Automatic with Select Shift,Premium Gasoline,10.3,6,1905.21
+AUDI,MID-SIZE,3.0,6,Automated Manual,Premium Gasoline,9.9,8,2127.56
+AUDI,SUV - SMALL,3.0,6,Automatic with Select Shift,Premium Gasoline,11.8,8,2123.11
+CHRYSLER,COMPACT,2.4,4,Automatic,Regular Gasoline,10.1,4,2012.47
+MERCEDES-BENZ,STATION WAGON - SMALL,2.0,4,Automated Manual,Premium Gasoline,8.4,7,2107.01
+LAND ROVER,SUV - SMALL,2.0,4,Automatic with Select Shift,Premium Gasoline,11.1,9,1955.38
+FORD,SUV - SMALL,2.0,4,Automatic with Select Shift,Regular Gasoline,10.1,6,2104.6
+VOLKSWAGEN,STATION WAGON - SMALL,1.4,4,Manual,Regular Gasoline,7.4,6,1946.17
+SUBARU,MID-SIZE,2.0,4,Continuously Variable,Regular Gasoline,7.5,7,2024.84
+GMC,SUV - STANDARD,5.3,8,Automatic,Ethanol(E85),18.4,6,1963.84
+JAGUAR,TWO-SEATER,3.0,6,Automatic with Select Shift,Premium Gasoline,10.8,8,1955.48
+CHEVROLET,SUBCOMPACT,1.4,4,Manual,Regular Gasoline,7.2,5,2039.99
+PORSCHE,MINICOMPACT,3.8,6,Manual,Premium Gasoline,11.2,7,1948.46
+AUDI,COMPACT,2.0,4,Continuously Variable,Premium Gasoline,8.8,8,2063.28
+GMC,PICKUP TRUCK - STANDARD,2.7,4,Automatic,Regular Gasoline,11.7,8,2142.21
+TOYOTA,MID-SIZE,1.8,4,Automatic,Regular Gasoline,7.6,4,2117.14
+INFINITI,MID-SIZE,3.0,6,Automatic with Select Shift,Premium Gasoline,10.8,7,1912.36
+BMW,COMPACT,2.0,4,Automatic with Select Shift,Premium Gasoline,8.8,8,1882.0
+TOYOTA,PICKUP TRUCK - SMALL,3.5,6,Automatic with Select Shift,Regular Gasoline,11.9,6,2016.06
+LINCOLN,SUV - SMALL,2.3,4,Automatic with Select Shift,Regular Gasoline,11.5,6,2114.11
+FORD,FULL-SIZE,2.0,4,Automatic with Select Shift,Regular Gasoline,9.1,6,2067.57
+CHRYSLER,MID-SIZE,2.4,4,Automatic,Regular Gasoline,10.0,6,2108.55
+NISSAN,STATION WAGON - SMALL,2.0,4,Continuously Variable,Regular Gasoline,8.4,0,2053.03
+CHEVROLET,MID-SIZE,1.8,4,Automatic with Select Shift,Regular Gasoline,8.8,6,1982.21
+HYUNDAI,COMPACT,1.6,4,Automated Manual,Regular Gasoline,7.6,6,1969.04
+AUDI,SUBCOMPACT,2.0,4,Automated Manual,Premium Gasoline,9.0,6,2068.28
+VOLKSWAGEN,COMPACT,2.0,4,Automated Manual,Premium Gasoline,9.4,7,2084.47
+FORD,VAN - PASSENGER,3.7,6,Automatic with Select Shift,Ethanol(E85),19.7,6,2098.58
+MERCEDES-BENZ,STATION WAGON - MID-SIZE,3.0,6,Automatic,Premium Gasoline,10.8,9,1930.18
+MERCEDES-BENZ,STATION WAGON - MID-SIZE,4.0,8,Automatic,Premium Gasoline,12.7,9,1960.38
+KIA,FULL-SIZE,5.0,8,Automatic with Select Shift,Premium Gasoline,13.3,8,1884.2
+LINCOLN,MID-SIZE,2.0,4,Automatic with Select Shift,Regular Gasoline,8.9,6,1933.74
+MITSUBISHI,SUV - SMALL,2.0,4,Manual,Regular Gasoline,8.8,5,1992.19
+BUICK,MID-SIZE,3.6,6,Automatic with Select Shift,Regular Gasoline,10.9,9,2092.04
+FORD,SPECIAL PURPOSE VEHICLE,2.0,4,Automatic with Select Shift,Regular Gasoline,9.3,8,2127.86
+FORD,PICKUP TRUCK - STANDARD,3.0,6,Automatic with Select Shift,Diesel,10.7,10,2092.58
+AUDI,FULL-SIZE,3.0,6,Automatic with Select Shift,Premium Gasoline,11.5,8,2047.3
+LAND ROVER,SUV - SMALL,3.0,6,Automatic with Select Shift,Premium Gasoline,11.6,8,2029.31
+MAZDA,COMPACT,2.0,4,Manual,Regular Gasoline,7.0,6,1925.15
+MERCEDES-BENZ,SUV - STANDARD,6.0,12,Automatic with Select Shift,Premium Gasoline,20.3,7,2071.43
+JAGUAR,MID-SIZE,3.0,6,Automatic with Select Shift,Premium Gasoline,11.6,8,1960.23
+BMW,FULL-SIZE,4.4,8,Automatic with Select Shift,Premium Gasoline,12.4,8,2053.73
+TOYOTA,MID-SIZE,3.5,6,Automatic with Select Shift,Regular Gasoline,9.6,6,2023.02
+CHEVROLET,VAN - PASSENGER,4.8,8,Automatic,Regular Gasoline,18.1,6,2008.55
+FORD,FULL-SIZE,3.5,6,Automatic with Select Shift,Ethanol(E85),14.9,6,2069.4
+AUDI,SUBCOMPACT,3.0,6,Automatic,Premium Gasoline,11.6,7,1915.02
+TOYOTA,SUV - SMALL,2.5,4,Automatic with Select Shift,Regular Gasoline,9.5,6,2007.03
+FORD,COMPACT,2.0,4,Automatic with Select Shift,Ethanol(E85),10.6,6,1906.4
+BMW,SUBCOMPACT,4.4,8,Automatic with Select Shift,Premium Gasoline,12.4,8,1986.64
+KIA,COMPACT,1.6,4,Manual,Regular Gasoline,9.6,6,2014.4
+JEEP,SUV - SMALL,2.4,4,Automatic,Regular Gasoline,9.8,9,2096.37
+SUBARU,MID-SIZE,2.0,4,Manual,Regular Gasoline,8.9,5,1945.4
+HYUNDAI,MID-SIZE,2.0,4,Automatic,Regular Gasoline,8.6,6,2052.89
+ASTON MARTIN,SUBCOMPACT,6.0,12,Automatic,Premium Gasoline,14.2,8,2105.85
+CHEVROLET,FULL-SIZE,3.6,6,Automatic with Select Shift,Ethanol(E85),14.3,6,1932.81
+CADILLAC,SUV - SMALL,3.6,6,Automatic with Select Shift,Regular Gasoline,10.5,8,1897.46
+MAZDA,MID-SIZE,2.5,4,Automatic with Select Shift,Regular Gasoline,7.7,6,2061.37
+FORD,COMPACT,1.0,3,Manual,Regular Gasoline,7.0,6,1919.29
+LAND ROVER,SUV - SMALL,2.0,4,Automatic with Select Shift,Premium Gasoline,10.4,9,1914.29
+PORSCHE,FULL-SIZE,3.0,6,Automated Manual,Premium Gasoline,11.5,7,1953.38
+MERCEDES-BENZ,COMPACT,4.0,8,Automatic,Premium Gasoline,13.7,9,2045.38
+NISSAN,MID-SIZE,1.8,4,Manual,Regular Gasoline,7.8,6,2012.69
+DODGE,FULL-SIZE,3.6,6,Automatic,Regular Gasoline,11.6,5,1950.92
+MAZDA,COMPACT,2.5,4,Automatic with Select Shift,Regular Gasoline,8.2,6,1889.27
+BUICK,MID-SIZE,2.0,4,Automatic with Select Shift,Premium Gasoline,9.9,6,2077.96
+PORSCHE,FULL-SIZE,4.8,8,Automated Manual,Premium Gasoline,12.8,7,1961.97
+TOYOTA,PICKUP TRUCK - SMALL,4.0,6,Automatic,Regular Gasoline,13.4,5,1934.58
+LEXUS,MID-SIZE,3.5,6,Automatic with Select Shift,Regular Gasoline,9.1,8,2029.26
+HYUNDAI,COMPACT,1.6,4,Manual,Regular Gasoline,8.3,6,1998.11
+MERCEDES-BENZ,COMPACT,2.0,4,Automatic with Select Shift,Premium Gasoline,8.6,7,1900.65
+CADILLAC,MID-SIZE,2.0,4,Automatic with Select Shift,Premium Gasoline,10.1,6,1934.32
+MITSUBISHI,COMPACT,2.4,4,Continuously Variable,Regular Gasoline,8.8,6,2124.13
+VOLVO,COMPACT,2.0,4,Automatic with Select Shift,Premium Gasoline,10.3,8,2090.26
+KIA,SUV - SMALL,2.4,4,Automatic with Select Shift,Regular Gasoline,9.8,6,1914.17
+VOLVO,COMPACT,2.5,5,Automatic with Select Shift,Regular Gasoline,9.7,6,1949.89
+SCION,STATION WAGON - SMALL,2.4,4,Automatic with Select Shift,Regular Gasoline,9.8,4,1951.42
+JEEP,SUV - SMALL,2.4,4,Automatic,Regular Gasoline,9.8,6,2014.68
+PORSCHE,MINICOMPACT,3.0,6,Manual,Premium Gasoline,11.0,7,2112.32
+INFINITI,MID-SIZE,3.0,6,Automatic with Select Shift,Premium Gasoline,10.9,7,2020.82
+VOLKSWAGEN,COMPACT,2.0,4,Automated Manual,Premium Gasoline,9.3,6,1897.35
+CHEVROLET,STATION WAGON - SMALL,1.8,4,Automatic with Select Shift,Regular Gasoline,8.3,6,2129.13
+LINCOLN,FULL-SIZE,3.7,6,Automatic with Select Shift,Regular Gasoline,11.3,6,1911.56
+DODGE,MID-SIZE,3.6,6,Automatic,Regular Gasoline,10.5,6,1998.24
+BMW,STATION WAGON - SMALL,2.0,4,Automatic with Select Shift,Premium Gasoline,8.9,8,2060.76
+AUDI,SUBCOMPACT,2.0,4,Automated Manual,Premium Gasoline,9.6,7,2047.64
+BUICK,MID-SIZE,2.0,4,Automatic with Select Shift,Premium Gasoline,10.7,6,1960.18
+FORD,SUBCOMPACT,5.0,8,Manual,Regular Gasoline,13.8,6,2028.67
+PORSCHE,FULL-SIZE,4.0,8,Automated Manual,Premium Gasoline,13.4,8,2037.77
+CHEVROLET,STATION WAGON - SMALL,1.4,4,Manual,Regular Gasoline,8.0,6,1895.08
+JEEP,SUV - SMALL,3.2,6,Automatic,Regular Gasoline,10.9,9,2111.92
+LAND ROVER,SUV - STANDARD,3.0,6,Automatic with Select Shift,Premium Gasoline,12.4,8,1983.72
+LEXUS,MID-SIZE,2.0,4,Automatic with Select Shift,Regular Gasoline,7.2,10,1994.15
+HYUNDAI,MID-SIZE,2.0,4,Manual,Regular Gasoline,8.3,6,2003.24
+FORD,PICKUP TRUCK - STANDARD,5.0,8,Automatic with Select Shift,Ethanol(E85),18.0,10,2097.89
+NISSAN,SUV - SMALL,2.5,4,Continuously Variable,Regular Gasoline,8.5,0,1981.45
+KIA,STATION WAGON - SMALL,2.0,4,Manual,Regular Gasoline,8.7,6,2131.49
+MERCEDES-BENZ,SUV - STANDARD,3.0,6,Automatic with Select Shift,Premium Gasoline,12.0,7,2015.93
+ACURA,SUV - SMALL,3.0,6,Automated Manual,Premium Gasoline,9.0,7,2075.03
+BMW,SUBCOMPACT,2.0,4,Automatic with Select Shift,Premium Gasoline,8.7,8,2083.2
+LINCOLN,MID-SIZE,3.7,6,Automatic with Select Shift,Regular Gasoline,11.4,6,1902.55
+MINI,COMPACT,1.6,4,Manual,Premium Gasoline,8.6,6,2027.66
+HYUNDAI,MID-SIZE,2.0,4,Manual,Regular Gasoline,8.0,6,1918.38
+CHEVROLET,PICKUP TRUCK - STANDARD,4.3,6,Automatic,Regular Gasoline,11.8,6,1966.57
+FORD,PICKUP TRUCK - STANDARD,3.5,6,Automatic,Regular Gasoline,12.7,6,2010.46
+LEXUS,MID-SIZE,2.5,4,Continuously Variable,Regular Gasoline,5.3,6,1958.82
+PORSCHE,MINICOMPACT,3.0,6,Manual,Premium Gasoline,11.4,7,2143.97
+DODGE,MID-SIZE,1.4,4,Automated Manual,Regular Gasoline,7.3,6,1961.81
+VOLKSWAGEN,SUV - SMALL,2.0,4,Automatic with Select Shift,Regular Gasoline,9.8,8,1966.5
+GMC,PICKUP TRUCK - STANDARD,5.3,8,Automatic,Regular Gasoline,14.0,6,2028.51
+CHEVROLET,TWO-SEATER,6.2,8,Automatic with Select Shift,Premium Gasoline,12.7,8,1942.65
+DODGE,SUV - STANDARD,5.7,8,Automatic,Regular Gasoline,14.0,8,2134.67
+LINCOLN,SUV - STANDARD,5.4,8,Automatic,Ethanol(E85),21.6,6,2139.33
+KIA,COMPACT,1.6,4,Automated Manual,Regular Gasoline,8.6,7,2038.25
+BMW,SUV - STANDARD,4.4,8,Automatic with Select Shift,Premium Gasoline,13.6,8,2101.62
+KIA,SUV - SMALL,2.4,4,Automatic with Select Shift,Regular Gasoline,10.5,6,1984.22
+LINCOLN,MID-SIZE,2.0,4,Continuously Variable,Regular Gasoline,5.8,0,1988.89
+GMC,PICKUP TRUCK - SMALL,2.8,4,Automatic,Diesel,10.5,6,1971.77
+FORD,PICKUP TRUCK - STANDARD,2.7,6,Automatic with Select Shift,Regular Gasoline,11.8,10,2116.39
+HYUNDAI,FULL-SIZE,2.0,4,Automatic with Select Shift,Regular Gasoline,8.4,6,2089.86
+MASERATI,FULL-SIZE,3.8,8,Automatic with Select Shift,Premium Gasoline,14.0,8,1883.38
+FORD,VAN - PASSENGER,6.8,10,Automatic,Regular Gasoline,21.2,5,1923.94
+CHEVROLET,SUV - STANDARD,3.6,6,Automatic with Select Shift,Regular Gasoline,11.8,9,2005.23
+PORSCHE,MINICOMPACT,3.8,6,Automated Manual,Premium Gasoline,11.2,7,2022.05
+JEEP,SUV - SMALL,2.0,4,Continuously Variable,Regular Gasoline,10.0,0,2002.18
+PORSCHE,MINICOMPACT,3.0,6,Automated Manual,Premium Gasoline,10.6,7,1974.38
+FORD,PICKUP TRUCK - STANDARD,5.0,8,Automatic with Select Shift,Regular Gasoline,13.0,10,1896.61
+FORD,SUBCOMPACT,1.6,4,Automated Manual,Regular Gasoline,7.6,6,1930.0
+VOLKSWAGEN,COMPACT,2.0,4,Automatic,Diesel,7.4,6,2128.07
+ROLLS-ROYCE,MID-SIZE,6.6,12,Automatic,Premium Gasoline,15.6,8,2054.7
+SUBARU,SUV - SMALL,2.0,4,Manual,Regular Gasoline,9.2,5,1979.11
+MERCEDES-BENZ,SUV - SMALL,2.0,4,Automated Manual,Premium Gasoline,9.0,7,1956.5
+FORD,PICKUP TRUCK - STANDARD,3.3,6,Automatic with Select Shift,Ethanol(E85),14.9,6,1895.41
+BUICK,COMPACT,2.0,4,Manual,Premium Gasoline,9.8,6,1919.12
+FORD,SUBCOMPACT,3.7,6,Automatic with Select Shift,Regular Gasoline,11.1,6,2108.58
+VOLVO,COMPACT,2.0,4,Automatic with Select Shift,Regular Gasoline,9.7,8,1983.64
+FORD,FULL-SIZE,3.5,6,Automatic with Select Shift,Ethanol(E85),15.7,6,2033.02
+HONDA,SUV - SMALL,3.5,6,Automatic,Regular Gasoline,11.3,6,1931.55
+MERCEDES-BENZ,FULL-SIZE,4.7,8,Automatic with Select Shift,Premium Gasoline,12.0,7,2087.37
+HYUNDAI,SUV - SMALL,2.4,4,Automatic with Select Shift,Regular Gasoline,10.1,6,1915.92
+MERCEDES-BENZ,SUBCOMPACT,3.0,6,Automatic,Premium Gasoline,10.6,9,1947.29
+BMW,TWO-SEATER,2.0,4,Automatic with Select Shift,Premium Gasoline,9.1,8,1882.68
+MERCEDES-BENZ,TWO-SEATER,4.0,8,Automated Manual,Premium Gasoline,13.9,7,1887.32
+BENTLEY,MID-SIZE,6.8,8,Automatic with Select Shift,Premium Gasoline,18.2,8,1931.49
+CADILLAC,SUV - STANDARD,6.2,8,Automatic,Premium Gasoline,14.0,10,2036.13
+LINCOLN,MID-SIZE,2.0,4,Continuously Variable,Regular Gasoline,5.8,0,2090.35
+BMW,SUV - STANDARD,4.4,8,Automatic with Select Shift,Premium Gasoline,13.8,8,1927.47
+SUBARU,SUV - SMALL,2.5,4,Continuously Variable,Regular Gasoline,8.3,6,1937.7
+BMW,COMPACT,4.4,8,Automatic with Select Shift,Premium Gasoline,12.0,8,1923.99
+VOLKSWAGEN,COMPACT,2.0,4,Automated Manual,Premium Gasoline,9.2,7,2032.35
+GMC,SUV - STANDARD,3.6,6,Automatic,Regular Gasoline,11.3,6,2140.09
+NISSAN,MID-SIZE,1.8,4,Continuously Variable,Regular Gasoline,7.2,0,2018.47
+TOYOTA,MID-SIZE,1.8,4,Manual,Regular Gasoline,7.9,6,1882.29
+MITSUBISHI,SUV - SMALL,3.0,6,Automatic with Select Shift,Premium Gasoline,10.2,6,2072.66
+CHEVROLET,SUV - SMALL,2.4,4,Automatic,Regular Gasoline,10.0,6,1943.23
+BMW,SUBCOMPACT,3.0,6,Automated Manual,Premium Gasoline,10.4,7,1890.59
+FIAT,MINICOMPACT,1.4,4,Manual,Regular Gasoline,7.2,5,2082.71
+AUDI,SUBCOMPACT,4.2,8,Automatic,Premium Gasoline,13.4,7,1899.8
+BMW,COMPACT,4.4,8,Automatic with Select Shift,Premium Gasoline,12.4,8,1915.1
+SUBARU,COMPACT,2.5,4,Manual,Premium Gasoline,12.5,6,2133.97
+BMW,COMPACT,3.0,6,Automatic with Select Shift,Premium Gasoline,10.0,8,2102.39
+BMW,SUV - STANDARD,4.4,8,Automatic with Select Shift,Premium Gasoline,13.5,8,1970.79
+TOYOTA,MID-SIZE,1.8,4,Continuously Variable,Regular Gasoline,4.7,0,1983.57
+AUDI,MID-SIZE,4.0,8,Automatic with Select Shift,Premium Gasoline,13.7,8,1933.24
+CADILLAC,MID-SIZE,3.6,6,Automatic with Select Shift,Premium Gasoline,12.7,8,2033.99
+VOLVO,STATION WAGON - SMALL,2.0,4,Automatic with Select Shift,Premium Gasoline,8.4,8,1985.76
+INFINITI,SUV - STANDARD,5.6,8,Automatic with Select Shift,Premium Gasoline,15.1,7,1912.29
+HONDA,SUV - SMALL,1.5,4,Continuously Variable,Regular Gasoline,8.0,0,1941.85
+MERCEDES-BENZ,SUV - STANDARD,3.0,6,Automatic with Select Shift,Premium Gasoline,12.0,7,2099.45
+LEXUS,MID-SIZE,4.6,8,Automatic with Select Shift,Premium Gasoline,12.3,8,1928.62
+FORD,PICKUP TRUCK - STANDARD,2.7,6,Automatic with Select Shift,Regular Gasoline,12.5,6,1926.21
+PORSCHE,SUV - STANDARD,3.0,6,Automatic with Select Shift,Premium Gasoline,11.4,8,1907.05
+LEXUS,SUBCOMPACT,3.5,6,Automatic with Select Shift,Premium Gasoline,11.1,6,2071.67
+TOYOTA,SUV - SMALL,2.5,4,Automatic with Select Shift,Regular Gasoline,8.6,8,2097.96
+KIA,MID-SIZE,2.0,4,Continuously Variable,Regular Gasoline,6.9,0,2023.85
+FORD,SUV - STANDARD,3.5,6,Automatic with Select Shift,Regular Gasoline,12.5,10,1906.87
+FORD,SUV - SMALL,2.5,4,Automatic with Select Shift,Ethanol(E85),13.1,6,1942.86
+PORSCHE,TWO-SEATER,3.8,6,Manual,Premium Gasoline,11.8,6,1955.27
+VOLVO,MID-SIZE,2.0,4,Automatic with Select Shift,Regular Gasoline,8.3,8,1943.47
+CHEVROLET,SUV - STANDARD,5.3,8,Automatic,Regular Gasoline,14.4,6,1970.12
+RAM,PICKUP TRUCK - STANDARD,3.6,6,Automatic,Regular Gasoline,12.6,8,1965.1
+AUDI,SUBCOMPACT,3.0,6,Automated Manual,Premium Gasoline,11.0,7,2057.04
+PORSCHE,MINICOMPACT,3.8,6,Automated Manual,Premium Gasoline,10.6,7,1902.11
+VOLKSWAGEN,COMPACT,1.4,4,Automatic with Select Shift,Regular Gasoline,7.4,8,1918.95
+AUDI,SUBCOMPACT,3.0,6,Automated Manual,Premium Gasoline,11.4,7,2088.81
+FORD,TWO-SEATER,3.5,6,Automated Manual,Premium Gasoline,17.3,7,1930.37
+GMC,PICKUP TRUCK - SMALL,2.8,4,Automatic,Diesel,10.1,6,2026.56
+TOYOTA,MID-SIZE,2.5,4,Automatic with Select Shift,Regular Gasoline,8.2,6,2020.72
+VOLKSWAGEN,COMPACT,1.8,4,Automatic,Regular Gasoline,8.2,6,2019.2
+PORSCHE,MINICOMPACT,3.4,6,Automated Manual,Premium Gasoline,10.2,7,2127.85
+GMC,PICKUP TRUCK - SMALL,2.5,4,Manual,Regular Gasoline,10.8,6,1960.94
+FORD,COMPACT,2.0,4,Automatic,Ethanol(E85),10.3,6,1890.25
+VOLKSWAGEN,SUBCOMPACT,2.0,4,Automatic with Select Shift,Regular Gasoline,8.2,6,1903.63
+ALFA ROMEO,SUV - SMALL,2.0,4,Automatic,Premium Gasoline,9.3,8,2129.89
+JEEP,SUV - SMALL,3.2,6,Automatic,Regular Gasoline,10.6,9,2016.35
+VOLVO,SUV - SMALL,2.0,4,Automatic with Select Shift,Premium Gasoline,9.7,8,1953.92
+FORD,SUV - SMALL,1.6,4,Automatic with Select Shift,Regular Gasoline,9.3,6,1986.17
+CHEVROLET,COMPACT,1.4,4,Automatic with Select Shift,Regular Gasoline,7.5,6,1941.06
+ROLLS-ROYCE,MID-SIZE,6.6,12,Automatic with Select Shift,Premium Gasoline,16.1,8,2056.51
+CHEVROLET,SUV - STANDARD,5.3,8,Automatic,Regular Gasoline,13.2,6,1912.73
+FORD,TWO-SEATER,3.5,6,Automated Manual,Premium Gasoline,17.1,7,2039.71
+GENESIS,COMPACT,3.3,6,Automatic with Select Shift,Premium Gasoline,12.0,8,2078.84
+FORD,PICKUP TRUCK - STANDARD,3.5,6,Automatic with Select Shift,Regular Gasoline,12.5,10,1949.85
+TOYOTA,COMPACT,2.0,4,Continuously Variable,Regular Gasoline,7.0,10,2139.05
+JEEP,SUV - SMALL,2.0,4,Automatic,Regular Gasoline,10.5,8,1967.98
+AUDI,COMPACT,2.0,4,Manual,Premium Gasoline,9.3,6,2142.43
+FORD,FULL-SIZE,3.5,6,Automatic with Select Shift,Ethanol(E85),15.0,6,1972.81
+CHEVROLET,COMPACT,6.2,8,Manual,Premium Gasoline,15.5,6,2001.16
+NISSAN,SUV - SMALL,3.5,6,Continuously Variable,Regular Gasoline,11.0,0,2084.09
+FORD,PICKUP TRUCK - STANDARD,5.0,8,Automatic with Select Shift,Regular Gasoline,14.5,6,2064.4
+LINCOLN,SUV - SMALL,2.0,4,Automatic with Select Shift,Regular Gasoline,10.9,6,1898.8
+HONDA,SUV - SMALL,3.5,6,Automatic,Regular Gasoline,11.5,5,1960.24
+PORSCHE,MINICOMPACT,3.0,6,Automated Manual,Premium Gasoline,9.7,7,1994.09
+ROLLS-ROYCE,FULL-SIZE,6.6,12,Automatic,Premium Gasoline,16.0,8,1976.22
+MAZDA,MID-SIZE,2.5,4,Automatic with Select Shift,Regular Gasoline,7.9,6,2010.29
+PORSCHE,TWO-SEATER,2.0,4,Automated Manual,Premium Gasoline,9.4,7,1910.33
+BMW,SUV - SMALL,3.0,6,Automatic with Select Shift,Premium Gasoline,14.6,8,2075.14
+VOLVO,SUV - STANDARD,2.0,4,Automatic with Select Shift,Premium Gasoline,9.9,8,1938.02
+BMW,COMPACT,2.0,4,Automatic with Select Shift,Premium Gasoline,9.1,8,2017.41
+BMW,SUBCOMPACT,4.4,8,Automatic with Select Shift,Premium Gasoline,11.6,8,2066.89
+JEEP,SUV - SMALL,2.4,4,Automatic,Regular Gasoline,10.1,9,1920.5
+HONDA,MID-SIZE,2.4,4,Continuously Variable,Regular Gasoline,7.6,0,2050.65
+LEXUS,COMPACT,2.5,6,Automatic with Select Shift,Premium Gasoline,10.4,6,2077.32
+CHEVROLET,PICKUP TRUCK - STANDARD,5.3,8,Automatic,Regular Gasoline,12.7,6,1922.52
+VOLVO,SUV - SMALL,2.0,4,Automatic with Select Shift,Premium Gasoline,9.4,8,2035.3
+BMW,FULL-SIZE,4.4,8,Automatic with Select Shift,Premium Gasoline,11.5,8,2026.89
+HYUNDAI,MID-SIZE,2.0,4,Automated Manual,Regular Gasoline,5.6,6,2136.63
+FORD,PICKUP TRUCK - STANDARD,5.0,8,Automatic with Select Shift,Regular Gasoline,13.8,6,2096.11
+VOLKSWAGEN,COMPACT,2.0,4,Manual,Premium Gasoline,9.6,6,1985.02
+HONDA,COMPACT,2.0,4,Continuously Variable,Regular Gasoline,7.0,0,2061.17
+INFINITI,MID-SIZE,3.0,6,Automatic with Select Shift,Premium Gasoline,10.8,7,1987.02
+FORD,PICKUP TRUCK - STANDARD,3.5,6,Automatic,Regular Gasoline,11.5,6,1937.76
+KIA,MID-SIZE,1.6,4,Automated Manual,Regular Gasoline,7.8,7,1940.66
+MINI,MID-SIZE,2.0,4,Automatic with Select Shift,Premium Gasoline,8.7,8,1930.18
+JEEP,SUV - STANDARD,3.6,6,Automatic,Regular Gasoline,12.1,8,2001.71
+DODGE,MID-SIZE,6.2,8,Automatic,Premium Gasoline,15.3,8,2013.14
+VOLVO,MID-SIZE,2.0,4,Automatic with Select Shift,Regular Gasoline,8.4,8,1887.08
+FORD,COMPACT,2.0,4,Manual,Regular Gasoline,8.3,5,1882.59
+MERCEDES-BENZ,SUV - STANDARD,5.5,8,Automatic with Select Shift,Premium Gasoline,15.8,7,1964.93
+HYUNDAI,COMPACT,1.6,4,Manual,Regular Gasoline,7.3,6,1988.9
+CHEVROLET,PICKUP TRUCK - STANDARD,6.2,8,Automatic,Premium Gasoline,13.8,8,1967.04
+MINI,SUBCOMPACT,2.0,4,Automated Manual,Premium Gasoline,7.9,7,1890.43
+HYUNDAI,COMPACT,1.6,4,Automated Manual,Regular Gasoline,7.8,7,1882.45
+SMART,TWO-SEATER,1.0,3,Automated Manual,Premium Gasoline,6.5,5,1987.36
+FORD,PICKUP TRUCK - STANDARD,3.5,6,Automatic with Select Shift,Regular Gasoline,14.3,10,1942.26
+AUDI,STATION WAGON - SMALL,2.0,4,Automated Manual,Premium Gasoline,9.3,7,1970.88
+CHEVROLET,SUBCOMPACT,2.0,4,Automatic with Select Shift,Premium Gasoline,9.4,8,2097.13
+HONDA,STATION WAGON - SMALL,1.5,4,Continuously Variable,Regular Gasoline,6.5,0,1879.69
+MASERATI,MID-SIZE,3.0,6,Automatic with Select Shift,Premium Gasoline,12.5,8,2065.22
+LINCOLN,FULL-SIZE,3.5,6,Automatic with Select Shift,Regular Gasoline,12.5,6,2076.79
+BMW,COMPACT,4.4,8,Automatic with Select Shift,Premium Gasoline,12.3,8,1897.96
+FORD,MID-SIZE,2.7,6,Automatic with Select Shift,Regular Gasoline,11.8,6,2023.63
+LINCOLN,SUV - STANDARD,3.5,6,Automatic with Select Shift,Regular Gasoline,14.2,6,1918.56
+CHEVROLET,COMPACT,1.8,4,Manual,Regular Gasoline,7.9,5,1928.49
+MERCEDES-BENZ,COMPACT,4.7,8,Automatic,Premium Gasoline,11.8,9,1943.14
+BMW,COMPACT,4.4,8,Automated Manual,Premium Gasoline,14.7,7,2026.12
+MINI,COMPACT,1.6,4,Manual,Premium Gasoline,7.8,6,1877.87
+CHEVROLET,SUV - STANDARD,5.3,8,Automatic,Regular Gasoline,13.0,6,1992.03
+FORD,PICKUP TRUCK - STANDARD,3.0,6,Automatic with Select Shift,Diesel,10.7,10,1962.06
+CHEVROLET,SUV - STANDARD,3.6,6,Automatic,Regular Gasoline,11.8,9,2070.74
+SCION,MINICOMPACT,2.0,4,Manual,Premium Gasoline,9.5,6,2061.69
+CHEVROLET,COMPACT,1.4,4,Manual,Regular Gasoline,7.1,6,2087.82
+PORSCHE,MINICOMPACT,3.4,6,Automated Manual,Premium Gasoline,10.8,7,2126.62
+CHEVROLET,PICKUP TRUCK - SMALL,3.6,6,Automatic,Regular Gasoline,11.3,6,2009.97
+CHEVROLET,FULL-SIZE,2.4,4,Automatic with Select Shift,Regular Gasoline,8.7,6,1882.15
+KIA,SUV - SMALL,2.4,4,Automatic with Select Shift,Regular Gasoline,9.9,6,2124.33
+PORSCHE,SUV - STANDARD,3.6,6,Automatic,Premium Gasoline,12.0,8,1898.47
+TOYOTA,SUV - SMALL,2.7,4,Automatic with Select Shift,Regular Gasoline,10.0,6,2123.68
+AUDI,MID-SIZE,2.0,4,Automated Manual,Premium Gasoline,8.8,7,2089.56
+GMC,PICKUP TRUCK - STANDARD,5.3,8,Automatic,Regular Gasoline,13.0,8,1929.37
+FORD,SUBCOMPACT,3.7,6,Manual,Regular Gasoline,11.2,6,1976.87
+PORSCHE,TWO-SEATER,4.0,6,Manual,Premium Gasoline,14.1,6,2030.55
+FORD,PICKUP TRUCK - STANDARD,3.5,6,Automatic,Ethanol(E85),16.9,6,1990.02
+BMW,COMPACT,2.0,4,Automatic,Diesel,6.7,8,2085.28
+LAND ROVER,SUV - STANDARD,3.0,6,Automatic with Select Shift,Ethanol(E85),17.4,8,1887.97
+PORSCHE,SUV - STANDARD,3.6,6,Automatic,Premium Gasoline,12.2,8,2025.03
+BMW,COMPACT,4.4,8,Manual,Premium Gasoline,13.8,6,1911.68
+MERCEDES-BENZ,STATION WAGON - SMALL,2.0,4,Automated Manual,Premium Gasoline,8.6,7,1990.39
+CADILLAC,STATION WAGON - SMALL,3.0,6,Automatic with Select Shift,Regular Gasoline,11.0,6,2082.17
+KIA,COMPACT,1.6,4,Manual,Regular Gasoline,7.7,6,2099.73
+CHEVROLET,COMPACT,1.8,4,Automatic with Select Shift,Regular Gasoline,8.4,6,1914.75
+LEXUS,MID-SIZE,3.5,6,Automatic with Select Shift,Regular Gasoline,9.1,8,2066.49
+BMW,COMPACT,2.0,4,Automatic with Select Shift,Premium Gasoline,8.4,8,1896.86
+SUBARU,SUV - SMALL,3.6,6,Continuously Variable,Regular Gasoline,10.5,6,2102.37
+VOLKSWAGEN,COMPACT,1.8,4,Automatic with Select Shift,Regular Gasoline,8.5,6,1979.27
+TOYOTA,PICKUP TRUCK - STANDARD,5.7,8,Automatic with Select Shift,Regular Gasoline,15.2,6,1929.18
+HYUNDAI,COMPACT,1.6,4,Automatic,Regular Gasoline,8.8,6,2041.51
+VOLKSWAGEN,COMPACT,1.4,4,Automatic with Select Shift,Regular Gasoline,7.4,8,1886.57
+GMC,SUV - STANDARD,5.3,8,Automatic,Ethanol(E85),17.6,6,2103.35
+CHEVROLET,FULL-SIZE,2.5,4,Automatic with Select Shift,Regular Gasoline,9.2,6,2126.88
+LEXUS,SUV - SMALL,3.5,6,Continuously Variable,Premium Gasoline,8.2,6,2139.82
+GMC,PICKUP TRUCK - SMALL,3.6,6,Automatic,Regular Gasoline,11.3,6,1978.45
+MAZDA,MID-SIZE,2.0,4,Manual,Regular Gasoline,7.2,6,1944.69
+HYUNDAI,SUV - SMALL,2.0,4,Automatic,Regular Gasoline,11.5,6,2127.99
+MINI,MINICOMPACT,1.6,4,Manual,Premium Gasoline,7.5,6,2123.88
+DODGE,FULL-SIZE,6.4,8,Automatic,Premium Gasoline,13.0,8,2124.63
+ASTON MARTIN,MINICOMPACT,5.9,12,Automatic,Premium Gasoline,15.6,6,2123.88
+DODGE,SUV - STANDARD,6.4,8,Automatic,Premium Gasoline,15.6,8,2049.15
+MAZDA,MID-SIZE,2.5,4,Automatic with Select Shift,Regular Gasoline,8.0,6,1878.53
+BMW,FULL-SIZE,3.0,6,Automatic with Select Shift,Premium Gasoline,10.3,8,2076.01
+MERCEDES-BENZ,FULL-SIZE,4.0,8,Automatic,Premium Gasoline,11.8,9,2131.12
+CADILLAC,SUV - STANDARD,6.2,8,Automatic,Ethanol(E85),22.1,6,1931.77
+FIAT,STATION WAGON - SMALL,1.4,4,Manual,Regular Gasoline,8.3,6,1944.87
+SUBARU,COMPACT,2.0,4,Manual,Premium Gasoline,9.8,6,1950.53
+HONDA,MID-SIZE,2.0,4,Continuously Variable,Regular Gasoline,5.0,0,2084.86
+KIA,STATION WAGON - SMALL,2.0,4,Automatic with Select Shift,Regular Gasoline,9.0,6,2041.4
+DODGE,FULL-SIZE,5.7,8,Automatic,Regular Gasoline,12.3,8,1889.18
+HYUNDAI,SUV - SMALL,2.0,4,Manual,Regular Gasoline,10.1,6,2021.04
+GMC,PICKUP TRUCK - STANDARD,5.3,8,Automatic,Ethanol(E85),17.1,6,1965.7
+MAZDA,SUV - SMALL,2.0,4,Manual,Regular Gasoline,8.5,6,2083.16
+LAMBORGHINI,TWO-SEATER,6.5,12,Automated Manual,Premium Gasoline,19.7,7,2040.66
+MINI,SUBCOMPACT,1.5,3,Manual,Premium Gasoline,7.4,6,1968.93
+INFINITI,COMPACT,3.5,6,Automatic with Select Shift,Premium Gasoline,8.2,7,1922.73
+CHRYSLER,MID-SIZE,3.6,6,Automatic,Regular Gasoline,10.5,6,1897.58
+CHEVROLET,SUV - SMALL,2.0,4,Automatic,Regular Gasoline,10.1,9,2069.41
+GMC,PICKUP TRUCK - STANDARD,5.3,8,Automatic,Regular Gasoline,15.1,6,2045.11
+TOYOTA,SUV - SMALL,2.5,4,Automatic with Select Shift,Regular Gasoline,9.5,6,1956.9
+MERCEDES-BENZ,SUV - SMALL,3.0,6,Automatic,Premium Gasoline,11.6,9,2107.58
+CHEVROLET,SUV - SMALL,1.4,4,Automatic with Select Shift,Regular Gasoline,8.2,6,1900.16
+CHEVROLET,VAN - PASSENGER,6.0,8,Automatic,Ethanol(E85),25.8,6,2108.44
+FORD,PICKUP TRUCK - STANDARD,5.0,8,Automatic with Select Shift,Regular Gasoline,14.5,10,1928.67
+GMC,SUV - STANDARD,6.2,8,Automatic,Premium Gasoline,14.5,10,2064.55
+HYUNDAI,SUV - SMALL,2.4,4,Automatic with Select Shift,Regular Gasoline,10.1,8,1951.67
+PORSCHE,SUV - STANDARD,3.0,6,Automatic with Select Shift,Premium Gasoline,11.5,8,1909.22
+TOYOTA,COMPACT,1.8,4,Continuously Variable,Regular Gasoline,7.1,0,1961.52
+CADILLAC,MID-SIZE,3.6,6,Automatic with Select Shift,Regular Gasoline,10.5,8,2080.86
+FORD,SUV - STANDARD,3.5,6,Automatic with Select Shift,Regular Gasoline,14.3,6,2060.92
+FORD,SUV - SMALL,3.5,6,Automatic with Select Shift,Regular Gasoline,11.8,6,2072.99
+RAM,MINIVAN,3.6,6,Automatic,Regular Gasoline,11.4,6,1953.86
+AUDI,SUBCOMPACT,2.0,4,Manual,Premium Gasoline,8.7,6,2096.64
+BMW,SUBCOMPACT,3.0,6,Automatic with Select Shift,Premium Gasoline,10.7,8,1898.67
+VOLKSWAGEN,MID-SIZE,2.0,4,Manual,Diesel,6.7,6,1926.84
+AUDI,COMPACT,3.0,6,Manual,Premium Gasoline,11.7,6,2127.03
+VOLKSWAGEN,COMPACT,1.8,4,Manual,Regular Gasoline,8.4,5,2022.61
+TOYOTA,MINIVAN,3.5,6,Automatic with Select Shift,Regular Gasoline,12.5,6,2079.44
+MERCEDES-BENZ,SUBCOMPACT,3.0,6,Automatic,Premium Gasoline,11.0,9,2039.87
+TOYOTA,COMPACT,2.0,4,Continuously Variable,Regular Gasoline,8.2,7,1941.82
+KIA,STATION WAGON - SMALL,1.6,4,Automated Manual,Regular Gasoline,8.5,7,1957.85
+BMW,SUV - SMALL,2.0,4,Automatic,Premium Gasoline,9.1,8,2068.09
+TOYOTA,PICKUP TRUCK - STANDARD,4.6,8,Automatic with Select Shift,Regular Gasoline,14.3,6,2004.13
+KIA,SUV - SMALL,3.3,6,Automatic with Select Shift,Regular Gasoline,11.2,8,2077.3
+MINI,MINICOMPACT,2.0,4,Automatic with Select Shift,Premium Gasoline,8.3,8,2109.93
+CHEVROLET,VAN - PASSENGER,6.0,8,Automatic,Regular Gasoline,18.9,6,2001.37
+PORSCHE,MINICOMPACT,3.4,6,Automated Manual,Premium Gasoline,10.5,7,2099.92
+FORD,PICKUP TRUCK - STANDARD,2.7,6,Automatic with Select Shift,Regular Gasoline,11.1,10,2026.74
+KIA,SUV - SMALL,2.4,4,Automatic with Select Shift,Regular Gasoline,10.9,6,2140.6
+CHEVROLET,SUV - SMALL,3.6,6,Automatic,Regular Gasoline,12.1,6,2009.87
+ACURA,COMPACT,2.4,4,Automated Manual,Premium Gasoline,8.2,8,2142.75
+TOYOTA,MID-SIZE,2.5,4,Automatic with Select Shift,Regular Gasoline,8.4,8,2027.55
+LAMBORGHINI,TWO-SEATER,6.5,12,Automated Manual,Premium Gasoline,19.7,7,2085.65
+AUDI,SUBCOMPACT,2.0,4,Automated Manual,Diesel,6.5,6,2100.7
+TOYOTA,SUV - SMALL,2.7,4,Automatic with Select Shift,Regular Gasoline,10.7,6,2111.91
+FORD,SUBCOMPACT,5.0,8,Manual,Regular Gasoline,13.1,6,1980.35
+BMW,SUBCOMPACT,3.0,6,Automatic with Select Shift,Premium Gasoline,9.5,8,1910.08
+GMC,PICKUP TRUCK - STANDARD,3.0,6,Automatic,Diesel,9.1,10,1882.41
+BUICK,SUV - SMALL,2.0,4,Automatic,Premium Gasoline,10.6,6,2125.34
+MINI,MID-SIZE,1.5,3,Manual,Premium Gasoline,8.4,6,1929.48
+FORD,SUBCOMPACT,2.3,4,Manual,Regular Gasoline,10.7,6,2104.38
+CHRYSLER,MID-SIZE,3.6,6,Automatic,Ethanol(E85),13.6,9,2005.57
+NISSAN,MID-SIZE,1.8,4,Continuously Variable,Regular Gasoline,7.3,0,1996.02
+DODGE,SUV - SMALL,3.6,6,Automatic,Regular Gasoline,12.4,6,2132.08
+ROLLS-ROYCE,FULL-SIZE,6.6,12,Automatic with Select Shift,Premium Gasoline,17.0,8,2019.7
+MITSUBISHI,COMPACT,1.2,3,Continuously Variable,Regular Gasoline,6.2,0,1894.42
+MERCEDES-BENZ,COMPACT,4.0,8,Automatic,Premium Gasoline,11.6,9,2092.91
+AUDI,COMPACT,2.0,4,Manual,Premium Gasoline,8.7,6,1898.26
+AUDI,FULL-SIZE,4.0,8,Automatic with Select Shift,Premium Gasoline,11.0,8,2023.23
+CHEVROLET,MID-SIZE,1.4,4,Manual,Regular Gasoline,7.8,6,2092.53
+TOYOTA,SUV - SMALL,2.7,4,Automatic with Select Shift,Regular Gasoline,10.5,6,2003.43
+FORD,PICKUP TRUCK - STANDARD,3.5,6,Automatic with Select Shift,Regular Gasoline,14.5,10,2116.65
+FORD,PICKUP TRUCK - STANDARD,5.0,8,Automatic with Select Shift,Regular Gasoline,13.6,10,1905.33
+CHEVROLET,PICKUP TRUCK - STANDARD,3.0,6,Automatic,Diesel,8.9,10,1964.46
+HONDA,MID-SIZE,2.4,4,Manual,Regular Gasoline,8.7,6,2117.83
+BMW,COMPACT,4.4,8,Automated Manual,Premium Gasoline,14.7,7,2099.46
+FIAT,MINICOMPACT,1.4,4,Manual,Regular Gasoline,7.3,5,2020.06
+ASTON MARTIN,TWO-SEATER,6.0,12,Automated Manual,Premium Gasoline,16.4,7,1961.0
+MERCEDES-BENZ,COMPACT,3.0,6,Automatic with Select Shift,Premium Gasoline,10.5,7,1914.6
+BUICK,SUV - SMALL,1.4,4,Automatic with Select Shift,Regular Gasoline,8.7,6,2103.94
+FORD,SUBCOMPACT,2.3,4,Manual,Regular Gasoline,9.7,6,1941.09
+BMW,MID-SIZE,3.0,6,Automatic,Diesel,7.9,8,2068.18
+ROLLS-ROYCE,FULL-SIZE,6.7,12,Automatic,Premium Gasoline,17.1,8,1986.76
+BMW,COMPACT,2.0,4,Automatic with Select Shift,Premium Gasoline,8.8,8,2040.7
+BMW,SUBCOMPACT,2.0,4,Automatic with Select Shift,Premium Gasoline,8.5,8,1920.99
+FORD,MID-SIZE,1.5,4,Automatic with Select Shift,Regular Gasoline,8.0,6,2031.0
+TOYOTA,COMPACT,1.5,4,Manual,Regular Gasoline,7.1,5,2103.39
+VOLKSWAGEN,SUV - STANDARD,3.6,6,Automatic with Select Shift,Premium Gasoline,12.4,8,1990.16
+MAZDA,MID-SIZE,2.0,4,Manual,Regular Gasoline,7.6,6,2020.74
+FORD,PICKUP TRUCK - STANDARD,3.3,6,Automatic with Select Shift,Regular Gasoline,10.9,6,1935.91
+LEXUS,MID-SIZE,3.5,6,Continuously Variable,Premium Gasoline,7.5,8,2125.08
+CADILLAC,SUV - STANDARD,3.6,6,Automatic with Select Shift,Regular Gasoline,12.8,6,2080.47
+VOLKSWAGEN,COMPACT,2.0,4,Automatic with Select Shift,Regular Gasoline,8.7,6,1919.9
+PORSCHE,MINICOMPACT,3.4,6,Automated Manual,Premium Gasoline,10.8,7,2138.33
+CHEVROLET,PICKUP TRUCK - STANDARD,4.3,6,Automatic,Ethanol(E85),17.1,6,2118.99
+BMW,COMPACT,3.0,6,Automatic with Select Shift,Premium Gasoline,10.6,8,2045.49
+CHEVROLET,SUBCOMPACT,6.2,8,Manual,Premium Gasoline,14.8,6,2123.1
+AUDI,SUBCOMPACT,2.0,4,Automated Manual,Regular Gasoline,8.0,7,2113.82
+MINI,COMPACT,1.6,4,Automatic with Select Shift,Premium Gasoline,9.0,6,2085.47
+KIA,COMPACT,2.0,4,Manual,Regular Gasoline,8.8,6,2108.74
+LEXUS,SUV - SMALL,2.0,4,Automatic with Select Shift,Premium Gasoline,9.9,6,1891.51
+BMW,FULL-SIZE,3.0,6,Automatic with Select Shift,Premium Gasoline,9.3,8,1934.85
+CHEVROLET,COMPACT,1.4,4,Automatic with Select Shift,Regular Gasoline,7.2,6,2070.5
+AUDI,SUV - STANDARD,3.0,6,Automatic with Select Shift,Premium Gasoline,13.3,8,2091.02
+HYUNDAI,MID-SIZE,1.6,4,Automated Manual,Regular Gasoline,8.1,7,1920.89
+PORSCHE,MINICOMPACT,3.8,6,Manual,Premium Gasoline,10.7,7,2001.9
+MINI,MINICOMPACT,1.6,4,Manual,Premium Gasoline,8.1,6,1966.56
+AUDI,FULL-SIZE,6.3,12,Automatic with Select Shift,Premium Gasoline,15.5,8,2113.41
+CHEVROLET,PICKUP TRUCK - SMALL,2.5,4,Manual,Regular Gasoline,10.8,6,1991.0
+RAM,PICKUP TRUCK - STANDARD,3.6,6,Automatic,Ethanol(E85),16.8,8,2071.49
+JAGUAR,FULL-SIZE,3.0,6,Automatic with Select Shift,Premium Gasoline,11.9,8,2057.73
+BUICK,MID-SIZE,2.0,4,Automatic with Select Shift,Premium Gasoline,9.0,9,1962.07
+CHEVROLET,COMPACT,2.0,4,Automatic with Select Shift,Premium Gasoline,9.3,8,2143.47
+GMC,SUV - SMALL,3.6,6,Automatic,Regular Gasoline,12.1,6,2099.8
+FORD,SUV - SMALL,2.0,4,Automatic with Select Shift,Regular Gasoline,10.0,6,1952.56
+MINI,COMPACT,1.6,4,Automatic with Select Shift,Premium Gasoline,9.0,6,1982.12
+LAMBORGHINI,TWO-SEATER,5.2,10,Automated Manual,Premium Gasoline,15.0,7,1922.4
+HYUNDAI,COMPACT,1.6,4,Manual,Regular Gasoline,7.8,6,2126.18
+KIA,MID-SIZE,2.0,4,Automatic,Regular Gasoline,8.4,6,1927.27
+FORD,SUBCOMPACT,1.6,4,Automatic with Select Shift,Regular Gasoline,7.6,6,2140.94
+BUICK,MID-SIZE,3.6,6,Automatic with Select Shift,Ethanol(E85),15.9,6,1968.05
+MAZDA,MID-SIZE,2.0,4,Automatic with Select Shift,Regular Gasoline,7.0,6,2046.54
+GMC,PICKUP TRUCK - STANDARD,4.3,6,Automatic,Ethanol(E85),18.0,6,1970.49
+FORD,SPECIAL PURPOSE VEHICLE,2.5,4,Automatic with Select Shift,Regular Gasoline,9.9,6,2067.5
+JAGUAR,FULL-SIZE,5.0,8,Automatic with Select Shift,Ethanol(E85),17.5,8,2071.7
+BUICK,COMPACT,2.0,4,Automatic with Select Shift,Premium Gasoline,9.8,6,2124.1
+CHEVROLET,VAN - PASSENGER,5.3,8,Automatic,Regular Gasoline,16.5,4,2010.82
+CHEVROLET,PICKUP TRUCK - STANDARD,6.2,8,Automatic,Premium Gasoline,14.1,6,1953.43
+GMC,SUV - SMALL,3.6,6,Automatic,Ethanol(E85),16.2,6,2061.66
+BUICK,SUV - STANDARD,3.6,6,Automatic,Regular Gasoline,13.7,6,1884.56
+VOLKSWAGEN,COMPACT,1.4,4,Manual,Regular Gasoline,7.2,5,2044.1
+MINI,MID-SIZE,2.0,4,Automatic with Select Shift,Premium Gasoline,9.1,8,1888.34
+MERCEDES-BENZ,SUV - STANDARD,3.0,6,Automatic,Diesel,9.4,9,2112.19
+NISSAN,SUV - SMALL,3.5,6,Continuously Variable,Regular Gasoline,10.4,0,2110.69
+FORD,SUV - SMALL,1.6,4,Automatic with Select Shift,Regular Gasoline,9.1,6,2076.19
+JAGUAR,TWO-SEATER,5.0,8,Automatic with Select Shift,Premium Gasoline,12.7,8,2033.07
+SUBARU,SUV - SMALL,2.0,4,Continuously Variable,Regular Gasoline,7.5,6,1881.07
+TOYOTA,MID-SIZE,1.8,4,Continuously Variable,Regular Gasoline,7.1,7,1925.42
+CHEVROLET,MID-SIZE,1.8,4,Manual,Regular Gasoline,8.2,6,2117.73
+FORD,COMPACT,2.0,4,Automatic with Select Shift,Regular Gasoline,8.5,6,1884.03
+AUDI,COMPACT,2.0,4,Manual,Premium Gasoline,9.1,6,1957.69
+SUBARU,SUV - SMALL,2.5,4,Continuously Variable,Regular Gasoline,8.3,6,1891.71
+TOYOTA,COMPACT,1.5,4,Automatic,Regular Gasoline,7.4,4,2023.54
+TOYOTA,MID-SIZE,2.5,4,Continuously Variable,Regular Gasoline,5.7,0,2047.36
+AUDI,MID-SIZE,2.0,4,Automated Manual,Premium Gasoline,8.7,7,1903.44
+ACURA,MID-SIZE,3.5,6,Automated Manual,Premium Gasoline,8.1,7,1898.56
+KIA,MINIVAN,3.3,6,Automatic with Select Shift,Regular Gasoline,11.5,8,1953.83
+JEEP,SUV - SMALL,3.6,6,Manual,Regular Gasoline,13.4,6,2039.73
+GMC,SUV - STANDARD,5.3,8,Automatic,Regular Gasoline,13.3,6,1983.64
+CHEVROLET,COMPACT,1.4,4,Automatic with Select Shift,Regular Gasoline,8.0,6,1941.85
+LEXUS,COMPACT,2.0,4,Automatic with Select Shift,Premium Gasoline,9.1,8,1893.29
+BMW,FULL-SIZE,4.4,8,Automatic,Premium Gasoline,12.7,8,2089.25
+ROLLS-ROYCE,FULL-SIZE,6.6,12,Automatic with Select Shift,Premium Gasoline,17.1,8,2127.16
+BMW,COMPACT,4.4,8,Automatic with Select Shift,Premium Gasoline,12.3,8,1962.75
+CHEVROLET,STATION WAGON - SMALL,1.8,4,Manual,Regular Gasoline,8.1,5,2131.47
+MERCEDES-BENZ,TWO-SEATER,4.7,8,Automatic with Select Shift,Premium Gasoline,11.7,7,1925.76
+CADILLAC,MID-SIZE,3.6,6,Automatic with Select Shift,Premium Gasoline,12.7,8,2005.73
+TOYOTA,PICKUP TRUCK - SMALL,2.7,4,Manual,Regular Gasoline,11.9,5,2024.47
+HONDA,FULL-SIZE,2.0,4,Manual,Regular Gasoline,9.2,6,2140.4
+GMC,PICKUP TRUCK - STANDARD,4.3,6,Automatic,Ethanol(E85),18.1,6,1947.67
+LAND ROVER,SUV - STANDARD,5.0,8,Automatic with Select Shift,Premium Gasoline,15.1,8,2107.59
+NISSAN,STATION WAGON - SMALL,1.6,4,Manual,Premium Gasoline,7.8,6,1945.3
+NISSAN,SUBCOMPACT,3.8,6,Automated Manual,Premium Gasoline,12.6,6,1935.52
+VOLKSWAGEN,MID-SIZE,3.6,6,Automated Manual,Premium Gasoline,10.4,6,1896.61
+AUDI,MID-SIZE,2.0,4,Automatic with Select Shift,Premium Gasoline,9.2,8,1941.57
+MERCEDES-BENZ,TWO-SEATER,5.5,8,Automatic with Select Shift,Premium Gasoline,12.7,7,1893.53
+SUBARU,STATION WAGON - SMALL,2.5,4,Manual,Premium Gasoline,12.5,6,2116.42
+PORSCHE,MINICOMPACT,3.8,6,Automated Manual,Premium Gasoline,11.1,7,1877.76
+VOLKSWAGEN,COMPACT,1.8,4,Automatic with Select Shift,Regular Gasoline,8.4,6,2106.29
+HONDA,MID-SIZE,3.5,6,Automatic with Select Shift,Regular Gasoline,9.5,6,2033.56
+MAZDA,MID-SIZE,2.5,4,Automatic with Select Shift,Regular Gasoline,7.6,6,1910.77
+GMC,PICKUP TRUCK - STANDARD,5.3,8,Automatic,Regular Gasoline,14.0,6,1978.12
+MERCEDES-BENZ,COMPACT,4.7,8,Automatic with Select Shift,Premium Gasoline,11.7,7,2020.44
+CHEVROLET,STATION WAGON - SMALL,1.4,4,Automatic with Select Shift,Regular Gasoline,8.4,6,2054.54
+ACURA,COMPACT,2.4,4,Automated Manual,Premium Gasoline,8.6,8,1985.94
+CHEVROLET,VAN - CARGO,5.3,8,Automatic,Ethanol(E85),20.9,4,1925.68
+PORSCHE,FULL-SIZE,4.0,8,Automated Manual,Premium Gasoline,12.6,8,1936.22
+HONDA,SUV - SMALL,2.4,4,Automatic,Regular Gasoline,9.4,5,2007.64
+FORD,SUV - STANDARD,3.3,6,Automatic with Select Shift,Regular Gasoline,9.6,10,2030.98
+FIAT,STATION WAGON - SMALL,1.4,4,Automated Manual,Regular Gasoline,8.7,6,2126.01
+HYUNDAI,FULL-SIZE,2.4,4,Automatic with Select Shift,Regular Gasoline,8.3,6,1912.1
+FORD,FULL-SIZE,3.5,6,Automatic with Select Shift,Ethanol(E85),15.2,6,1954.34
+LAND ROVER,SUV - SMALL,2.0,4,Automatic with Select Shift,Premium Gasoline,10.6,9,2006.95
+KIA,COMPACT,2.0,4,Automatic,Regular Gasoline,8.4,6,2081.05
+PORSCHE,MINICOMPACT,3.8,6,Manual,Premium Gasoline,11.4,7,1975.75
+CHEVROLET,VAN - PASSENGER,6.0,8,Automatic,Regular Gasoline,18.8,6,1997.73
+FORD,PICKUP TRUCK - STANDARD,5.0,8,Automatic with Select Shift,Regular Gasoline,13.3,10,2142.54
+HYUNDAI,SUV - SMALL,2.0,4,Automatic with Select Shift,Regular Gasoline,11.5,6,1880.72
+CHEVROLET,PICKUP TRUCK - SMALL,2.8,4,Automatic,Diesel,9.4,6,1900.29
+DODGE,MINIVAN,3.6,6,Automatic,Regular Gasoline,11.8,6,1935.53
+FORD,SUBCOMPACT,3.7,6,Manual,Regular Gasoline,10.6,6,2057.19
+LAND ROVER,SUV - SMALL,2.0,4,Automatic with Select Shift,Diesel,8.5,8,1935.24
+VOLKSWAGEN,SUBCOMPACT,2.0,4,Automatic,Premium Gasoline,9.3,6,1976.53
+CADILLAC,MID-SIZE,3.6,6,Automatic with Select Shift,Regular Gasoline,11.0,6,2054.08
+BENTLEY,TWO-SEATER,4.0,8,Automatic with Select Shift,Premium Gasoline,14.2,8,2011.49
+DODGE,MID-SIZE,2.4,4,Manual,Regular Gasoline,8.8,6,1966.54
+VOLKSWAGEN,COMPACT,2.0,4,Automatic,Premium Gasoline,9.1,6,2124.15
+TOYOTA,MID-SIZE,1.8,4,Continuously Variable,Regular Gasoline,7.1,7,1999.31
+ROLLS-ROYCE,FULL-SIZE,6.7,12,Automatic with Select Shift,Premium Gasoline,16.6,8,1890.98
+GMC,PICKUP TRUCK - STANDARD,5.3,8,Automatic,Regular Gasoline,14.1,6,2091.88
+CHEVROLET,SUV - STANDARD,5.3,8,Automatic,Ethanol(E85),18.0,6,2123.0
+HYUNDAI,SUV - SMALL,3.3,6,Automatic with Select Shift,Regular Gasoline,11.7,6,1932.13
+HYUNDAI,SUV - SMALL,2.0,4,Automatic with Select Shift,Regular Gasoline,10.7,8,2021.42
+CHEVROLET,SUV - SMALL,1.6,4,Automatic,Diesel,7.4,6,1895.93
+BMW,TWO-SEATER,3.0,6,Manual,Premium Gasoline,11.0,6,1959.62
+MINI,COMPACT,1.6,4,Manual,Premium Gasoline,8.7,6,2144.59
+FORD,SUBCOMPACT,5.0,8,Automatic,Regular Gasoline,11.5,6,1991.57
+GMC,SUV - SMALL,1.5,4,Automatic,Regular Gasoline,8.6,9,1981.83
+LEXUS,SUBCOMPACT,3.5,6,Automatic with Select Shift,Premium Gasoline,11.0,6,1937.91
+CHEVROLET,MID-SIZE,1.8,4,Manual,Regular Gasoline,7.9,5,1922.62
+TOYOTA,SUV - STANDARD,3.5,6,Continuously Variable,Regular Gasoline,8.4,6,1899.3
+MAZDA,MID-SIZE,2.5,4,Automatic with Select Shift,Regular Gasoline,7.3,6,1877.69
+TOYOTA,PICKUP TRUCK - STANDARD,4.6,8,Automatic with Select Shift,Regular Gasoline,14.3,6,2094.29
+SUBARU,COMPACT,2.0,4,Manual,Premium Gasoline,10.0,6,2045.78
+MINI,MINICOMPACT,2.0,4,Manual,Premium Gasoline,8.9,6,1882.9
+MERCEDES-BENZ,SUV - STANDARD,3.0,6,Automatic with Select Shift,Premium Gasoline,14.0,7,1902.3
+RAM,PICKUP TRUCK - STANDARD,5.7,8,Automatic,Regular Gasoline,13.6,8,2139.74
+DODGE,MID-SIZE,3.6,6,Automatic,Regular Gasoline,10.3,8,2091.49
+HYUNDAI,COMPACT,1.6,4,Automated Manual,Regular Gasoline,7.7,6,1923.43
+MAZDA,COMPACT,2.5,4,Automatic with Select Shift,Regular Gasoline,7.8,6,2143.64
+MASERATI,MID-SIZE,3.0,6,Automatic with Select Shift,Premium Gasoline,12.4,8,2041.48
+KIA,STATION WAGON - SMALL,1.6,4,Manual,Regular Gasoline,9.0,6,1985.01
+BMW,SUBCOMPACT,3.0,6,Automated Manual,Premium Gasoline,12.1,7,1906.83
+BMW,SUV - STANDARD,4.4,8,Automatic with Select Shift,Premium Gasoline,13.8,8,1894.69
+CHEVROLET,MID-SIZE,2.5,4,Automatic with Select Shift,Regular Gasoline,8.0,6,1956.78
+FORD,PICKUP TRUCK - STANDARD,5.0,8,Automatic with Select Shift,Regular Gasoline,14.2,10,1918.1
+GMC,PICKUP TRUCK - STANDARD,6.2,8,Automatic,Premium Gasoline,14.1,6,1991.14
+GMC,VAN - PASSENGER,6.0,8,Automatic,Regular Gasoline,19.0,6,2020.79
+GMC,SUV - SMALL,2.4,4,Automatic,Regular Gasoline,10.0,6,1979.74
+FORD,SUBCOMPACT,5.0,8,Automatic with Select Shift,Regular Gasoline,12.9,10,1956.79
+KIA,MINIVAN,3.3,6,Automatic with Select Shift,Regular Gasoline,11.6,6,2113.69
+TOYOTA,MID-SIZE,2.5,4,Automatic with Select Shift,Regular Gasoline,7.4,8,2015.67
+MERCEDES-BENZ,SUV - STANDARD,4.7,8,Automatic,Premium Gasoline,15.1,9,2138.16
+MERCEDES-BENZ,COMPACT,5.5,8,Automatic with Select Shift,Premium Gasoline,13.1,7,1958.86
+MITSUBISHI,COMPACT,2.4,4,Continuously Variable,Regular Gasoline,9.5,6,1957.73
+BMW,TWO-SEATER,2.0,4,Automatic with Select Shift,Premium Gasoline,9.1,8,2071.78
+MERCEDES-BENZ,COMPACT,3.0,6,Automatic,Premium Gasoline,9.8,9,1914.7
+FORD,SPECIAL PURPOSE VEHICLE,2.5,4,Automatic with Select Shift,Ethanol(E85),14.7,6,2140.1
+BMW,FULL-SIZE,3.0,6,Automatic with Select Shift,Premium Gasoline,10.2,8,1951.42
+FORD,SUV - STANDARD,3.5,6,Automatic with Select Shift,Regular Gasoline,11.9,6,2106.17
+CHEVROLET,PICKUP TRUCK - STANDARD,5.3,8,Automatic,Regular Gasoline,14.0,6,1995.55
+BUICK,SUV - STANDARD,3.6,6,Automatic,Regular Gasoline,12.6,6,2087.1
+AUDI,MID-SIZE,3.0,6,Automatic with Select Shift,Premium Gasoline,11.0,8,1955.85
+FORD,SUV - SMALL,2.0,4,Automatic with Select Shift,Regular Gasoline,9.5,6,2065.77
+MERCEDES-BENZ,SUV - STANDARD,3.0,6,Automatic,Premium Gasoline,11.7,9,1948.51
+VOLVO,SUV - STANDARD,2.0,4,Automatic with Select Shift,Premium Gasoline,10.7,8,2045.35
+MITSUBISHI,COMPACT,2.4,4,Continuously Variable,Regular Gasoline,9.5,6,1965.08
+KIA,FULL-SIZE,2.0,4,Manual,Regular Gasoline,8.7,6,1882.09
+CHEVROLET,VAN - PASSENGER,6.0,8,Automatic,Ethanol(E85),26.1,6,2130.95
+NISSAN,MID-SIZE,1.6,4,Manual,Regular Gasoline,7.7,5,1904.24
+RAM,PICKUP TRUCK - STANDARD,5.7,8,Automatic,Regular Gasoline,12.9,8,1883.91
+HYUNDAI,COMPACT,2.0,4,Automatic with Select Shift,Regular Gasoline,8.2,6,2128.9
+MERCEDES-BENZ,SUV - STANDARD,4.0,8,Automatic,Premium Gasoline,17.5,7,2105.43
+GMC,VAN - PASSENGER,6.0,8,Automatic,Ethanol(E85),26.1,6,1899.26
+NISSAN,MID-SIZE,2.5,4,Continuously Variable,Regular Gasoline,7.6,0,1943.93
+CHEVROLET,MID-SIZE,2.5,4,Automatic with Select Shift,Regular Gasoline,8.6,6,2014.91
+FORD,SUV - SMALL,2.0,4,Automatic with Select Shift,Regular Gasoline,9.6,8,1901.45
+TOYOTA,PICKUP TRUCK - STANDARD,4.6,8,Automatic with Select Shift,Regular Gasoline,14.9,6,1988.42
+GMC,PICKUP TRUCK - STANDARD,4.3,6,Automatic,Regular Gasoline,11.9,6,2137.34
+BENTLEY,COMPACT,6.0,12,Automatic with Select Shift,Premium Gasoline,15.4,8,2073.08
+FORD,SPECIAL PURPOSE VEHICLE,1.6,4,Automatic with Select Shift,Regular Gasoline,9.4,6,2033.26
+CHEVROLET,COMPACT,1.4,4,Automatic with Select Shift,Regular Gasoline,7.0,6,1910.92
+FORD,COMPACT,2.0,4,Automated Manual,Regular Gasoline,7.7,6,2025.64
+CHEVROLET,TWO-SEATER,6.2,8,Manual,Premium Gasoline,11.2,7,2126.51
+PORSCHE,TWO-SEATER,3.4,6,Automated Manual,Premium Gasoline,9.5,7,2119.17
+RAM,PICKUP TRUCK - STANDARD,5.7,8,Automatic,Regular Gasoline,14.8,6,2055.67
+KIA,COMPACT,2.0,4,Automatic with Select Shift,Regular Gasoline,8.6,6,2058.35
+DODGE,SUV - SMALL,3.6,6,Automatic,Regular Gasoline,12.1,6,2067.66
+BMW,SUBCOMPACT,4.4,8,Automatic with Select Shift,Premium Gasoline,13.8,8,1881.39
+TOYOTA,PICKUP TRUCK - SMALL,4.0,6,Manual,Regular Gasoline,13.1,6,1890.48
+LINCOLN,SPECIAL PURPOSE VEHICLE,2.0,4,Automatic with Select Shift,Regular Gasoline,11.4,6,2059.3
+GMC,SUV - STANDARD,3.6,6,Automatic,Regular Gasoline,12.6,6,2020.94
+BMW,COMPACT,3.0,6,Automatic,Premium Gasoline,9.6,8,2100.67
+CHEVROLET,TWO-SEATER,6.2,8,Automatic with Select Shift,Premium Gasoline,12.7,8,1951.68
+CHEVROLET,SUBCOMPACT,1.4,4,Continuously Variable,Regular Gasoline,6.7,0,2032.65
+MERCEDES-BENZ,TWO-SEATER,5.5,8,Automatic with Select Shift,Premium Gasoline,10.6,7,2001.41
+FORD,MID-SIZE,2.3,4,Manual,Premium Gasoline,10.9,6,2071.95
+CHEVROLET,COMPACT,3.6,6,Automatic with Select Shift,Regular Gasoline,10.6,8,1895.29
+VOLVO,MID-SIZE,2.0,4,Automatic with Select Shift,Premium Gasoline,9.2,8,1998.87
+FORD,SUBCOMPACT,5.0,8,Automatic with Select Shift,Regular Gasoline,13.1,10,2094.03
+TOYOTA,MID-SIZE,3.5,6,Automatic with Select Shift,Regular Gasoline,9.5,6,1877.81
+LEXUS,SUV - SMALL,3.5,6,Automatic with Select Shift,Regular Gasoline,11.1,8,1968.28
+MERCEDES-BENZ,SUV - SMALL,3.0,6,Automatic,Premium Gasoline,11.8,9,1969.76
+JAGUAR,FULL-SIZE,5.0,8,Automatic with Select Shift,Premium Gasoline,13.3,8,1992.36
+PORSCHE,FULL-SIZE,3.0,6,Automated Manual,Premium Gasoline,10.7,8,2058.34
+MERCEDES-BENZ,COMPACT,6.0,12,Automatic,Premium Gasoline,14.6,9,2004.9
+MERCEDES-BENZ,TWO-SEATER,6.0,12,Automatic with Select Shift,Premium Gasoline,14.2,7,2075.67
+CHEVROLET,MID-SIZE,1.8,4,Manual,Regular Gasoline,8.0,5,2017.09
+BMW,SUV - STANDARD,3.0,6,Automatic with Select Shift,Diesel,8.9,8,1956.84
+BMW,SUV - STANDARD,3.0,6,Automatic with Select Shift,Premium Gasoline,11.6,8,2104.48
+HYUNDAI,FULL-SIZE,2.4,4,Automatic with Select Shift,Regular Gasoline,8.6,6,1999.74
+VOLKSWAGEN,COMPACT,2.0,4,Automated Manual,Premium Gasoline,9.1,6,1933.89
+MAZDA,COMPACT,1.5,4,Automatic,Regular Gasoline,7.7,4,1964.54
+TOYOTA,SUV - SMALL,2.7,4,Automatic with Select Shift,Regular Gasoline,10.4,6,2123.09
+ACURA,COMPACT,3.5,6,Automatic with Select Shift,Premium Gasoline,9.8,9,2131.57
+HONDA,MID-SIZE,2.0,4,Continuously Variable,Regular Gasoline,7.4,7,2042.6
+CHEVROLET,COMPACT,1.8,4,Manual,Regular Gasoline,8.0,5,1940.25
+SUBARU,SUV - SMALL,2.5,4,Manual,Regular Gasoline,9.7,6,1992.58
+NISSAN,PICKUP TRUCK - STANDARD,5.6,8,Automatic with Select Shift,Regular Gasoline,13.3,7,2110.77
+TOYOTA,PICKUP TRUCK - SMALL,2.7,4,Automatic,Regular Gasoline,10.9,4,1942.56
+ASTON MARTIN,MINICOMPACT,5.2,12,Automatic,Premium Gasoline,13.7,8,1947.43
+BMW,SUBCOMPACT,3.0,6,Manual,Premium Gasoline,11.8,6,1961.14
+HONDA,MID-SIZE,3.5,6,Automatic with Select Shift,Regular Gasoline,9.5,6,1985.55
+FORD,COMPACT,2.0,4,Automatic,Regular Gasoline,7.2,6,1915.63
+NISSAN,PICKUP TRUCK - STANDARD,5.6,8,Automatic with Select Shift,Regular Gasoline,14.1,7,1941.22
+HYUNDAI,SUV - SMALL,3.3,6,Automatic with Select Shift,Regular Gasoline,11.3,6,1899.37
+MERCEDES-BENZ,TWO-SEATER,6.0,12,Automatic with Select Shift,Premium Gasoline,14.2,7,2009.8
+INFINITI,MID-SIZE,3.0,6,Automatic with Select Shift,Premium Gasoline,10.5,7,1925.49
+VOLVO,COMPACT,2.0,4,Automatic with Select Shift,Regular Gasoline,9.4,8,1935.52
+JEEP,SUV - STANDARD,5.7,8,Automatic,Regular Gasoline,14.0,8,1959.5
+MINI,MID-SIZE,1.5,3,Automatic with Select Shift,Premium Gasoline,8.3,6,1991.85
+HYUNDAI,SUV - SMALL,1.6,4,Automated Manual,Regular Gasoline,8.6,7,1979.46
+FORD,PICKUP TRUCK - STANDARD,3.7,6,Automatic,Regular Gasoline,13.4,6,2024.62
+FORD,SUV - STANDARD,3.5,6,Automatic with Select Shift,Regular Gasoline,11.6,6,1893.2
+BMW,COMPACT,2.0,4,Automatic with Select Shift,Premium Gasoline,9.4,8,1882.9
+CADILLAC,SUV - SMALL,3.6,6,Automatic with Select Shift,Regular Gasoline,10.6,8,1964.53
+SUBARU,MINICOMPACT,2.0,4,Manual,Premium Gasoline,9.9,6,1997.18
+CHEVROLET,MID-SIZE,1.4,4,Manual,Regular Gasoline,7.5,6,2141.07
+JEEP,SUV - SMALL,2.4,4,Automatic,Regular Gasoline,9.4,9,1883.98
+VOLVO,STATION WAGON - SMALL,2.0,4,Automatic with Select Shift,Premium Gasoline,9.5,8,2103.91
+MITSUBISHI,SUV - SMALL,2.4,4,Continuously Variable,Regular Gasoline,8.4,6,1919.66
+VOLKSWAGEN,COMPACT,1.8,4,Automatic with Select Shift,Regular Gasoline,8.2,6,2023.99
+JEEP,SUV - SMALL,3.6,6,Manual,Regular Gasoline,13.3,6,2084.7
+HYUNDAI,FULL-SIZE,5.0,8,Automatic,Premium Gasoline,13.2,8,2082.97
+CHEVROLET,SUV - STANDARD,5.3,8,Automatic,Regular Gasoline,13.3,6,1935.6
+HYUNDAI,FULL-SIZE,2.0,4,Automatic,Regular Gasoline,9.6,6,2094.71
+TOYOTA,STATION WAGON - MID-SIZE,1.8,4,Continuously Variable,Regular Gasoline,5.8,0,1892.26
+MERCEDES-BENZ,MINICOMPACT,2.0,4,Automated Manual,Premium Gasoline,8.7,7,1977.83
+ASTON MARTIN,SUBCOMPACT,5.9,12,Automatic,Premium Gasoline,15.6,6,2135.74
+TOYOTA,MID-SIZE,1.8,4,Manual,Regular Gasoline,7.5,6,2081.22
+ASTON MARTIN,TWO-SEATER,4.7,8,Manual,Premium Gasoline,15.5,6,1989.33
+MERCEDES-BENZ,SUV - STANDARD,4.7,8,Automatic,Premium Gasoline,15.7,7,1935.24
+KIA,SUV - SMALL,3.3,6,Automatic with Select Shift,Regular Gasoline,12.2,6,1989.02
+FORD,MID-SIZE,2.0,4,Automatic with Select Shift,Regular Gasoline,9.0,6,1991.75
+BUICK,SUV - STANDARD,3.6,6,Automatic,Regular Gasoline,11.8,9,2135.93
+BMW,SUBCOMPACT,2.0,4,Automatic with Select Shift,Premium Gasoline,8.8,8,1932.6
+LAND ROVER,SUV - STANDARD,5.0,8,Automatic with Select Shift,Premium Gasoline,14.7,8,2095.02
+FORD,PICKUP TRUCK - STANDARD,5.0,8,Automatic with Select Shift,Ethanol(E85),17.9,6,2096.28
+TOYOTA,PICKUP TRUCK - SMALL,3.5,6,Automatic with Select Shift,Regular Gasoline,11.4,6,1953.1
+FORD,SUV - SMALL,2.5,4,Continuously Variable,Regular Gasoline,5.9,0,2102.82
+AUDI,SUBCOMPACT,2.9,6,Automatic with Select Shift,Premium Gasoline,11.3,8,2138.06
+PORSCHE,TWO-SEATER,2.7,6,Automated Manual,Premium Gasoline,9.2,7,2003.31
+LAND ROVER,SUV - SMALL,2.0,4,Automatic with Select Shift,Premium Gasoline,10.3,9,1969.72
+CHEVROLET,PICKUP TRUCK - STANDARD,5.3,8,Automatic,Ethanol(E85),17.9,6,2003.08
+JAGUAR,MID-SIZE,3.0,6,Automatic with Select Shift,Premium Gasoline,12.2,8,2025.24
+TOYOTA,STATION WAGON - MID-SIZE,1.8,4,Continuously Variable,Regular Gasoline,5.5,0,2036.63
+VOLKSWAGEN,SUV - SMALL,2.0,4,Automatic with Select Shift,Premium Gasoline,10.5,6,2015.14
+JAGUAR,TWO-SEATER,5.0,8,Automatic with Select Shift,Premium Gasoline,12.8,8,2104.72
+TOYOTA,PICKUP TRUCK - SMALL,3.5,6,Automatic with Select Shift,Regular Gasoline,12.0,6,1966.12
+TOYOTA,COMPACT,1.5,4,Manual,Regular Gasoline,6.7,6,2143.89
+LEXUS,MID-SIZE,2.5,4,Automatic with Select Shift,Regular Gasoline,5.3,6,2017.44
+JEEP,SUV - SMALL,2.4,4,Automatic,Regular Gasoline,10.9,9,1899.57
+FORD,PICKUP TRUCK - STANDARD,2.3,4,Automatic with Select Shift,Regular Gasoline,10.9,10,1932.32
+JAGUAR,COMPACT,2.0,4,Automatic with Select Shift,Premium Gasoline,8.5,8,2025.98
+CHEVROLET,COMPACT,6.2,8,Manual,Premium Gasoline,12.1,6,2096.75
+CHEVROLET,PICKUP TRUCK - STANDARD,5.3,8,Automatic,Ethanol(E85),17.5,6,1931.1
+BUICK,MID-SIZE,2.0,4,Automatic with Select Shift,Premium Gasoline,10.7,6,2136.71
+CADILLAC,COMPACT,2.0,4,Automatic with Select Shift,Premium Gasoline,9.1,8,1906.37
+LEXUS,SUBCOMPACT,3.5,6,Automatic with Select Shift,Premium Gasoline,10.6,8,2138.07
+HONDA,TWO-SEATER,1.5,4,Continuously Variable,Regular Gasoline,6.3,7,1928.8
+GMC,SUV - STANDARD,5.3,8,Automatic,Regular Gasoline,13.3,6,2037.79
+JAGUAR,TWO-SEATER,3.0,6,Automatic with Select Shift,Premium Gasoline,11.3,8,2077.67
+CADILLAC,SUV - STANDARD,6.2,8,Automatic,Premium Gasoline,14.2,10,1931.83
+FORD,PICKUP TRUCK - STANDARD,5.0,8,Automatic with Select Shift,Ethanol(E85),18.8,6,1985.74
+GMC,SUV - SMALL,2.4,4,Automatic,Regular Gasoline,9.4,6,1906.22
+FORD,MID-SIZE,2.0,4,Manual,Regular Gasoline,9.2,6,2107.8
+LAMBORGHINI,TWO-SEATER,6.5,12,Automated Manual,Premium Gasoline,17.9,7,2014.34
+HYUNDAI,SUV - STANDARD,3.8,6,Automatic with Select Shift,Regular Gasoline,10.5,8,2059.98
+CHEVROLET,VAN - PASSENGER,6.0,8,Automatic,Regular Gasoline,19.0,6,2015.33
+VOLVO,SUV - SMALL,2.0,4,Automatic with Select Shift,Premium Gasoline,10.0,8,2127.79
+GMC,SUV - STANDARD,5.3,8,Automatic,Ethanol(E85),19.3,6,2034.09
+CHEVROLET,COMPACT,3.6,6,Automatic with Select Shift,Regular Gasoline,11.2,6,1997.73
+FORD,PICKUP TRUCK - STANDARD,3.5,6,Automatic with Select Shift,Regular Gasoline,12.4,10,2084.51
+ASTON MARTIN,MINICOMPACT,6.0,12,Automatic,Premium Gasoline,14.8,8,2051.35
+CHEVROLET,PICKUP TRUCK - STANDARD,5.3,8,Automatic,Regular Gasoline,13.9,6,2006.61
+MERCEDES-BENZ,COMPACT,6.2,8,Automatic with Select Shift,Premium Gasoline,15.1,7,1897.26
+BMW,MID-SIZE,4.4,8,Automated Manual,Premium Gasoline,14.7,7,2142.55
+CADILLAC,COMPACT,3.6,6,Automatic with Select Shift,Regular Gasoline,10.8,6,1901.51
+MAZDA,MID-SIZE,2.5,4,Manual,Regular Gasoline,8.4,6,1990.83
+TOYOTA,PICKUP TRUCK - SMALL,3.5,6,Automatic with Select Shift,Regular Gasoline,11.9,6,2090.69
+FORD,SUBCOMPACT,2.3,4,Manual,Regular Gasoline,10.4,6,1939.89
+MAZDA,SUV - SMALL,2.5,4,Automatic with Select Shift,Regular Gasoline,9.6,6,1965.67
+FORD,PICKUP TRUCK - STANDARD,5.0,8,Automatic with Select Shift,Regular Gasoline,14.6,6,1918.9
+NISSAN,MID-SIZE,2.5,4,Continuously Variable,Regular Gasoline,7.8,7,1910.64
+GMC,SUV - STANDARD,5.3,8,Automatic,Ethanol(E85),18.0,6,2048.42
+NISSAN,MID-SIZE,2.5,4,Continuously Variable,Regular Gasoline,7.4,0,1950.8
+MAZDA,COMPACT,2.5,4,Automatic with Select Shift,Regular Gasoline,7.4,6,1900.67
+NISSAN,TWO-SEATER,3.7,6,Manual,Premium Gasoline,11.8,6,2126.69
+PORSCHE,MINICOMPACT,3.0,6,Manual,Premium Gasoline,10.3,7,1952.6
+CHEVROLET,STATION WAGON - SMALL,1.8,4,Automatic with Select Shift,Regular Gasoline,8.4,6,2009.54
+INFINITI,SUV - SMALL,3.7,6,Automatic with Select Shift,Premium Gasoline,12.8,7,2043.95
+AUDI,MID-SIZE,3.0,6,Automatic with Select Shift,Premium Gasoline,10.5,8,2050.19
+PORSCHE,TWO-SEATER,4.0,6,Manual,Premium Gasoline,15.1,6,1977.07
+PORSCHE,MINICOMPACT,3.4,6,Automated Manual,Premium Gasoline,10.1,7,2033.13
+JEEP,SUV - STANDARD,3.6,6,Automatic,Ethanol(E85),15.6,8,2099.46
+FORD,SUBCOMPACT,2.3,4,Automatic with Select Shift,Regular Gasoline,10.1,10,2018.43
+AUDI,FULL-SIZE,3.0,6,Automatic with Select Shift,Diesel,8.4,8,1958.52
+HONDA,SUV - SMALL,3.5,6,Automatic,Regular Gasoline,11.3,9,1943.04
+FORD,SUV - SMALL,3.5,6,Automatic with Select Shift,Regular Gasoline,11.8,6,1964.76
+NISSAN,MINIVAN,3.5,6,Continuously Variable,Regular Gasoline,11.1,0,2006.0
+INFINITI,MID-SIZE,3.7,6,Automatic with Select Shift,Premium Gasoline,10.3,7,2113.29
+TOYOTA,COMPACT,2.0,4,Continuously Variable,Regular Gasoline,6.7,10,2033.43
+HONDA,MINIVAN,3.5,6,Automatic,Regular Gasoline,10.7,6,2074.7
+DODGE,MID-SIZE,2.4,4,Automatic,Regular Gasoline,8.6,6,2039.58
+PORSCHE,FULL-SIZE,3.6,6,Automated Manual,Premium Gasoline,11.1,7,1963.95
+LAND ROVER,SUV - STANDARD,3.0,6,Automatic with Select Shift,Premium Gasoline,12.4,8,2136.62
+VOLKSWAGEN,SUV - SMALL,2.0,4,Automatic with Select Shift,Regular Gasoline,10.2,8,1898.55
+CHEVROLET,SUV - SMALL,1.4,4,Automatic with Select Shift,Regular Gasoline,8.4,6,1980.75
+TOYOTA,SUV - STANDARD,3.5,6,Automatic with Select Shift,Regular Gasoline,11.5,6,1962.07
+MAZDA,SUV - SMALL,2.0,4,Manual,Regular Gasoline,8.0,6,1940.12
+GMC,SUV - SMALL,2.4,4,Automatic,Regular Gasoline,9.1,6,1889.14
+CHEVROLET,MID-SIZE,1.4,4,Automatic,Regular Gasoline,7.7,6,1991.52
+KIA,MID-SIZE,2.4,4,Automatic with Select Shift,Regular Gasoline,6.4,6,2142.82
+MERCEDES-BENZ,SUV - STANDARD,4.0,8,Automatic,Premium Gasoline,16.3,9,2071.58
+LAND ROVER,SUV - SMALL,2.0,4,Automatic with Select Shift,Premium Gasoline,9.7,9,1917.53
+CHRYSLER,MID-SIZE,3.6,6,Automatic,Regular Gasoline,10.2,9,2109.81
+FORD,PICKUP TRUCK - STANDARD,3.5,6,Automatic with Select Shift,Regular Gasoline,13.1,10,2090.05
+LINCOLN,SUV - SMALL,2.0,4,Automatic with Select Shift,Regular Gasoline,10.9,6,2119.8
+MINI,SUBCOMPACT,1.5,3,Automatic with Select Shift,Premium Gasoline,7.7,6,1939.72
+PORSCHE,SUV - STANDARD,3.6,6,Automatic,Premium Gasoline,12.1,8,2099.12
+FORD,SUV - SMALL,1.6,4,Automatic with Select Shift,Regular Gasoline,9.4,6,1883.82
+NISSAN,SUBCOMPACT,3.8,6,Automated Manual,Premium Gasoline,12.6,6,1960.02
+MAZDA,COMPACT,2.0,4,Automatic with Select Shift,Regular Gasoline,6.9,6,1996.47
+KIA,MINIVAN,3.3,6,Automatic with Select Shift,Regular Gasoline,12.5,6,1979.07
+HONDA,FULL-SIZE,2.0,4,Manual,Premium Gasoline,9.6,6,2028.77
+INFINITI,SUV - SMALL,2.0,4,Continuously Variable,Premium Gasoline,9.0,8,2055.33
+FORD,PICKUP TRUCK - STANDARD,5.0,8,Automatic with Select Shift,Regular Gasoline,13.2,6,1954.18
+LAND ROVER,SUV - STANDARD,5.0,8,Automatic with Select Shift,Premium Gasoline,15.4,8,1898.4
+ASTON MARTIN,MINICOMPACT,4.0,8,Automatic,Premium Gasoline,11.5,8,1887.49
+FORD,VAN - PASSENGER,3.7,6,Automatic with Select Shift,Regular Gasoline,15.2,6,1987.89
+PORSCHE,MINICOMPACT,3.4,6,Automated Manual,Premium Gasoline,10.1,7,2125.43
+CHEVROLET,SUBCOMPACT,3.6,6,Manual,Regular Gasoline,11.7,6,2043.68
+FORD,PICKUP TRUCK - STANDARD,3.0,6,Automatic with Select Shift,Diesel,10.8,10,1985.95
+SUBARU,SUV - SMALL,2.5,4,Manual,Regular Gasoline,9.8,6,2097.38
+HONDA,STATION WAGON - SMALL,1.5,4,Continuously Variable,Regular Gasoline,6.8,7,2137.08
+MERCEDES-BENZ,SUBCOMPACT,3.0,6,Automatic with Select Shift,Premium Gasoline,10.2,7,2143.0
+NISSAN,PICKUP TRUCK - SMALL,4.0,6,Automatic,Regular Gasoline,13.7,5,1915.82
+KIA,COMPACT,2.0,4,Automatic with Select Shift,Regular Gasoline,8.6,6,1927.48
+FORD,PICKUP TRUCK - STANDARD,5.0,8,Automatic with Select Shift,Regular Gasoline,13.3,6,1923.38
+JEEP,SUV - SMALL,2.4,4,Manual,Regular Gasoline,9.7,5,2131.68
+FORD,PICKUP TRUCK - STANDARD,3.7,6,Automatic,Ethanol(E85),16.5,6,2112.76
+BMW,SUV - SMALL,2.0,4,Automatic with Select Shift,Premium Gasoline,10.2,8,2014.25
+FIAT,MINICOMPACT,1.4,4,Automatic,Regular Gasoline,8.7,6,2044.18
+RAM,PICKUP TRUCK - STANDARD,5.7,8,Automatic,Regular Gasoline,13.6,8,2000.52
+KIA,FULL-SIZE,5.0,8,Automatic with Select Shift,Premium Gasoline,13.3,8,2093.24
+LINCOLN,SUV - STANDARD,3.5,6,Automatic with Select Shift,Regular Gasoline,14.2,6,2052.41
+FORD,SUBCOMPACT,3.7,6,Automatic with Select Shift,Regular Gasoline,10.7,6,1971.17
+MAZDA,COMPACT,2.0,4,Automatic with Select Shift,Regular Gasoline,6.9,6,1914.22
+FORD,VAN - PASSENGER,3.5,6,Automatic with Select Shift,Ethanol(E85),19.8,10,2022.86
+CHEVROLET,FULL-SIZE,3.6,6,Automatic with Select Shift,Ethanol(E85),14.6,6,1887.1
+FORD,COMPACT,2.0,4,Manual,Ethanol(E85),10.9,5,2022.31
+FORD,PICKUP TRUCK - STANDARD,5.0,8,Automatic,Regular Gasoline,14.6,6,1968.35
+MERCEDES-BENZ,COMPACT,2.0,4,Automatic with Select Shift,Premium Gasoline,9.2,7,2025.79
+VOLKSWAGEN,SUBCOMPACT,2.0,4,Manual,Premium Gasoline,9.4,6,1949.54
+LAMBORGHINI,TWO-SEATER,5.2,10,Automated Manual,Premium Gasoline,14.5,7,2006.85
+CHEVROLET,SUV - STANDARD,5.3,8,Automatic,Ethanol(E85),19.1,6,2114.46
+BUICK,SUV - SMALL,1.4,4,Automatic with Select Shift,Regular Gasoline,8.5,6,1905.91
+BMW,FULL-SIZE,6.6,12,Automatic with Select Shift,Premium Gasoline,15.1,8,1902.16
+MERCEDES-BENZ,COMPACT,4.0,8,Automatic,Premium Gasoline,13.7,9,1919.43
+DODGE,MID-SIZE,2.0,4,Automatic,Ethanol(E85),11.5,6,1916.68
+CADILLAC,COMPACT,3.6,6,Automatic with Select Shift,Regular Gasoline,10.5,8,2117.12
+JEEP,SUV - SMALL,2.4,4,Automatic,Regular Gasoline,10.5,6,1935.58
+MERCEDES-BENZ,COMPACT,2.0,4,Automatic with Select Shift,Premium Gasoline,8.1,7,2068.1
+FORD,COMPACT,1.0,3,Manual,Regular Gasoline,6.8,6,2089.58
+BMW,MID-SIZE,4.4,8,Automatic with Select Shift,Premium Gasoline,12.3,8,2018.0
+ASTON MARTIN,SUBCOMPACT,6.0,12,Automatic,Premium Gasoline,14.1,8,2085.43
+CADILLAC,FULL-SIZE,3.6,6,Automatic with Select Shift,Regular Gasoline,11.0,6,1930.64
+INFINITI,MID-SIZE,3.5,6,Automatic with Select Shift,Premium Gasoline,7.5,7,1921.25
+MERCEDES-BENZ,TWO-SEATER,4.0,8,Automated Manual,Premium Gasoline,13.5,7,1986.98
+SCION,COMPACT,2.5,4,Automatic with Select Shift,Regular Gasoline,9.0,6,1923.36
+AUDI,COMPACT,3.0,6,Automated Manual,Premium Gasoline,11.0,7,2062.75
+GMC,PICKUP TRUCK - STANDARD,6.2,8,Automatic,Premium Gasoline,14.2,10,1997.0
+HYUNDAI,FULL-SIZE,2.0,4,Automatic with Select Shift,Regular Gasoline,8.4,6,2060.68
+TOYOTA,STATION WAGON - MID-SIZE,1.8,4,Continuously Variable,Regular Gasoline,5.6,0,2027.19
+NISSAN,STATION WAGON - SMALL,1.6,4,Continuously Variable,Premium Gasoline,8.8,8,2022.87
+HONDA,STATION WAGON - SMALL,1.5,4,Continuously Variable,Regular Gasoline,7.0,7,1957.04
+MERCEDES-BENZ,COMPACT,2.0,4,Automatic with Select Shift,Premium Gasoline,9.0,7,2127.11
+VOLKSWAGEN,COMPACT,2.0,4,Automated Manual,Diesel,6.5,6,1885.5
+HYUNDAI,MID-SIZE,2.0,4,Manual,Regular Gasoline,8.0,6,2044.19
+ACURA,MID-SIZE,3.5,6,Automated Manual,Premium Gasoline,7.7,7,2100.76
+CHEVROLET,SUV - SMALL,3.6,6,Automatic,Ethanol(E85),16.2,6,2082.33
+MINI,SUBCOMPACT,1.5,3,Manual,Premium Gasoline,7.2,6,1905.82
+CHEVROLET,MID-SIZE,1.4,4,Automatic with Select Shift,Regular Gasoline,7.8,6,2111.57
+LAND ROVER,SUV - STANDARD,3.0,6,Automatic with Select Shift,Diesel,9.6,8,2096.94
+MERCEDES-BENZ,SUV - STANDARD,3.0,6,Automatic,Premium Gasoline,13.2,9,2105.77
+CHEVROLET,MID-SIZE,1.4,4,Automatic with Select Shift,Regular Gasoline,8.0,6,2043.75
+LAND ROVER,SUV - SMALL,2.0,4,Automatic with Select Shift,Premium Gasoline,9.6,9,2108.65
+CHEVROLET,SUV - STANDARD,6.2,8,Automatic,Premium Gasoline,13.8,10,2092.21
+MINI,MINICOMPACT,1.6,4,Automatic,Premium Gasoline,7.8,6,2132.84
+ROLLS-ROYCE,FULL-SIZE,6.7,12,Automatic with Select Shift,Premium Gasoline,17.2,8,2036.66
+LAND ROVER,SUV - STANDARD,3.0,6,Automatic with Select Shift,Premium Gasoline,13.3,8,2093.12
+JEEP,SUV - SMALL,2.4,4,Continuously Variable,Regular Gasoline,11.1,0,1939.41
+CHEVROLET,MID-SIZE,2.0,4,Automatic with Select Shift,Premium Gasoline,9.8,6,2114.36
+KIA,COMPACT,1.6,4,Manual,Regular Gasoline,7.0,6,1989.13
+DODGE,MID-SIZE,5.7,8,Automatic,Regular Gasoline,12.3,8,2028.11
+VOLKSWAGEN,COMPACT,2.0,4,Automated Manual,Regular Gasoline,8.6,6,1886.07
+FORD,SUV - STANDARD,3.5,6,Automatic with Select Shift,Ethanol(E85),17.2,6,1902.11
+LEXUS,SUV - SMALL,2.0,4,Automatic with Select Shift,Premium Gasoline,9.9,6,2004.71
+CHEVROLET,COMPACT,1.8,4,Automatic with Select Shift,Regular Gasoline,8.3,6,2046.73
+LEXUS,MID-SIZE,3.5,6,Automatic with Select Shift,Regular Gasoline,9.6,6,2094.48
+VOLKSWAGEN,COMPACT,1.4,4,Automated Manual,Premium Gasoline,5.3,7,2095.67
+MERCEDES-BENZ,SUV - STANDARD,4.7,8,Automatic,Premium Gasoline,15.2,7,2021.57
+FORD,SUBCOMPACT,1.0,3,Manual,Regular Gasoline,6.6,5,2070.69
+VOLKSWAGEN,COMPACT,1.8,4,Manual,Regular Gasoline,8.7,5,1893.25
+HYUNDAI,MID-SIZE,2.0,4,Automatic with Select Shift,Regular Gasoline,5.7,6,2027.93
+LINCOLN,SUV - STANDARD,3.5,6,Automatic with Select Shift,Regular Gasoline,13.7,6,2019.46
+CHEVROLET,PICKUP TRUCK - SMALL,2.8,4,Automatic,Diesel,10.6,6,2073.62
+SUBARU,MINICOMPACT,2.0,4,Automatic with Select Shift,Premium Gasoline,8.5,6,2019.12
+MAZDA,COMPACT,2.5,4,Automatic with Select Shift,Regular Gasoline,7.8,6,1904.65
+CHEVROLET,PICKUP TRUCK - STANDARD,5.3,8,Automatic,Regular Gasoline,13.0,6,2059.44
+FORD,VAN - CARGO,4.6,8,Automatic,Ethanol(E85),21.9,4,2081.28
+CHEVROLET,SUBCOMPACT,1.2,4,Manual,Regular Gasoline,6.8,5,2043.88
+FORD,SUV - STANDARD,3.5,6,Automatic with Select Shift,Regular Gasoline,13.1,10,2116.89
+GMC,PICKUP TRUCK - STANDARD,6.2,8,Automatic,Premium Gasoline,13.9,10,2068.94
+HYUNDAI,FULL-SIZE,3.8,6,Automatic with Select Shift,Regular Gasoline,12.1,8,1980.66
+BENTLEY,COMPACT,4.0,8,Automatic with Select Shift,Premium Gasoline,13.1,8,1997.85
+CHEVROLET,SUV - STANDARD,3.6,6,Automatic,Regular Gasoline,11.1,9,1930.8
+NISSAN,PICKUP TRUCK - SMALL,2.5,4,Automatic,Regular Gasoline,12.3,5,2033.09
+FORD,COMPACT,2.0,4,Automatic with Select Shift,Ethanol(E85),10.3,6,1888.63
+RAM,PICKUP TRUCK - STANDARD,5.7,8,Automatic,Regular Gasoline,15.4,6,2013.91
+KIA,SUV - SMALL,3.3,6,Automatic with Select Shift,Regular Gasoline,11.1,8,2117.45
+CHEVROLET,PICKUP TRUCK - STANDARD,5.3,8,Automatic,Regular Gasoline,13.8,6,2035.5
+VOLVO,STATION WAGON - SMALL,2.0,4,Automatic with Select Shift,Premium Gasoline,9.4,8,2006.14
+VOLKSWAGEN,FULL-SIZE,2.0,4,Automatic with Select Shift,Premium Gasoline,10.0,8,1943.97
+GMC,PICKUP TRUCK - STANDARD,5.3,8,Automatic,Ethanol(E85),17.5,6,1896.91
+DODGE,FULL-SIZE,3.6,6,Automatic,Regular Gasoline,10.3,8,1939.69
+MERCEDES-BENZ,COMPACT,2.0,4,Automatic with Select Shift,Premium Gasoline,9.1,7,2096.34
+FORD,SUV - SMALL,2.5,4,Automatic with Select Shift,Regular Gasoline,9.7,6,2002.82
+FORD,SUV - STANDARD,3.0,6,Automatic with Select Shift,Regular Gasoline,11.8,10,1898.75
+ALFA ROMEO,TWO-SEATER,1.8,4,Automated Manual,Premium Gasoline,8.4,6,2020.51
+PORSCHE,TWO-SEATER,3.4,6,Manual,Premium Gasoline,10.7,6,2064.45
+AUDI,MID-SIZE,4.0,8,Automatic,Premium Gasoline,12.2,7,1994.45
+DODGE,SUV - STANDARD,3.6,6,Automatic,Regular Gasoline,11.3,8,2016.8
+HONDA,STATION WAGON - SMALL,1.8,4,Continuously Variable,Regular Gasoline,7.7,0,1901.79
+INFINITI,MID-SIZE,3.0,6,Automatic with Select Shift,Premium Gasoline,11.1,7,1919.16
+MERCEDES-BENZ,COMPACT,3.0,6,Automatic with Select Shift,Premium Gasoline,10.7,7,2032.46
+BMW,COMPACT,3.0,6,Manual,Premium Gasoline,11.7,6,1972.15
+LINCOLN,MID-SIZE,3.7,6,Automatic with Select Shift,Regular Gasoline,10.9,6,1995.23
+BMW,MID-SIZE,3.0,6,Automatic with Select Shift,Premium Gasoline,9.4,8,2138.23
+CHEVROLET,SUV - SMALL,2.4,4,Automatic,Ethanol(E85),13.4,6,1908.38
+KIA,STATION WAGON - MID-SIZE,2.0,4,Automatic,Regular Gasoline,9.2,6,1882.14
+CHEVROLET,SUV - SMALL,1.6,4,Automatic,Diesel,7.4,6,1943.28
+BUICK,SUV - SMALL,1.4,4,Automatic with Select Shift,Regular Gasoline,8.2,6,2068.52
+VOLKSWAGEN,SUV - SMALL,2.0,4,Automatic with Select Shift,Premium Gasoline,10.7,6,1931.68
+AUDI,FULL-SIZE,4.0,8,Automatic with Select Shift,Premium Gasoline,12.5,8,1957.63
+NISSAN,TWO-SEATER,3.7,6,Manual,Premium Gasoline,11.7,6,2017.61
+FORD,PICKUP TRUCK - STANDARD,3.0,6,Automatic with Select Shift,Diesel,9.5,10,1976.18
+MERCEDES-BENZ,STATION WAGON - MID-SIZE,2.0,4,Automatic,Premium Gasoline,9.5,9,2049.81
+MERCEDES-BENZ,SUV - SMALL,2.0,4,Automatic,Premium Gasoline,10.0,9,2060.33
+INFINITI,SUV - SMALL,3.5,6,Continuously Variable,Premium Gasoline,10.9,7,1982.65
+HONDA,STATION WAGON - SMALL,1.5,4,Manual,Regular Gasoline,7.7,5,1991.05
+MITSUBISHI,SUV - SMALL,2.0,4,Continuously Variable,Regular Gasoline,8.7,6,2136.93
+VOLKSWAGEN,COMPACT,2.0,4,Manual,Diesel,7.3,6,2007.84
+FORD,PICKUP TRUCK - STANDARD,3.3,6,Automatic with Select Shift,Regular Gasoline,11.6,6,2088.63
+CADILLAC,FULL-SIZE,3.6,6,Automatic with Select Shift,Regular Gasoline,11.1,10,2145.69
+PORSCHE,SUV - STANDARD,4.0,8,Automatic with Select Shift,Premium Gasoline,14.1,8,1910.61
+CHEVROLET,SUBCOMPACT,6.2,8,Manual,Premium Gasoline,12.6,6,1907.48
+KIA,STATION WAGON - SMALL,1.6,4,Automatic with Select Shift,Regular Gasoline,8.9,6,1926.67
+CHEVROLET,PICKUP TRUCK - STANDARD,5.3,8,Automatic,Regular Gasoline,13.1,6,1909.23
+GMC,SUV - STANDARD,5.3,8,Automatic,Regular Gasoline,13.3,6,2074.41
+VOLKSWAGEN,STATION WAGON - SMALL,2.5,5,Automatic,Regular Gasoline,9.5,6,1944.3
+BMW,COMPACT,3.0,6,Manual,Premium Gasoline,10.5,6,1896.53
+HYUNDAI,MID-SIZE,1.6,4,Automated Manual,Regular Gasoline,8.1,7,1967.11
+JEEP,SUV - SMALL,3.2,6,Automatic,Regular Gasoline,11.6,9,2089.93
+LEXUS,COMPACT,3.5,6,Automatic with Select Shift,Premium Gasoline,10.9,6,1970.67
+CHEVROLET,VAN - CARGO,5.3,8,Automatic,Ethanol(E85),22.6,4,2007.9
+MINI,SUBCOMPACT,2.0,4,Manual,Premium Gasoline,8.6,6,1946.41
+BMW,FULL-SIZE,2.0,4,Automatic with Select Shift,Premium Gasoline,8.9,8,2145.51
+FORD,PICKUP TRUCK - STANDARD,3.5,6,Automatic,Regular Gasoline,13.8,6,2033.15
+ASTON MARTIN,TWO-SEATER,6.0,12,Automated Manual,Premium Gasoline,16.5,7,1958.39
+MAZDA,TWO-SEATER,2.0,4,Automatic with Select Shift,Premium Gasoline,7.8,6,1928.27
+BMW,MID-SIZE,4.4,8,Automatic with Select Shift,Premium Gasoline,11.5,8,1918.61
+AUDI,FULL-SIZE,3.0,6,Automatic with Select Shift,Premium Gasoline,10.5,8,1952.49
+NISSAN,MID-SIZE,1.8,4,Continuously Variable,Regular Gasoline,7.3,0,2115.17
+MERCEDES-BENZ,COMPACT,3.0,6,Automatic,Premium Gasoline,11.2,9,1909.22
+DODGE,MID-SIZE,2.0,4,Automatic,Ethanol(E85),11.5,6,2111.23
+FORD,SUV - SMALL,2.0,4,Automatic with Select Shift,Regular Gasoline,9.8,6,2131.11
+AUDI,SUBCOMPACT,4.2,8,Automatic,Premium Gasoline,13.3,7,1942.32
+VOLVO,SUV - SMALL,2.5,5,Automatic with Select Shift,Regular Gasoline,11.4,6,1884.88
+DODGE,SUV - SMALL,3.6,6,Automatic,Regular Gasoline,12.1,6,1941.89
+PORSCHE,TWO-SEATER,3.4,6,Automated Manual,Premium Gasoline,9.5,7,1885.9
+MAZDA,COMPACT,2.5,4,Automatic with Select Shift,Regular Gasoline,7.2,6,2048.27
+ACURA,SUV - SMALL,3.5,6,Automatic with Select Shift,Premium Gasoline,10.7,6,2024.15
+GMC,SUV - SMALL,2.0,4,Automatic,Premium Gasoline,10.2,9,1969.2
+GMC,SUV - SMALL,3.6,6,Automatic,Ethanol(E85),17.0,6,2136.05
+LEXUS,MID-SIZE,3.5,6,Automatic with Select Shift,Regular Gasoline,9.7,6,2131.53
+MERCEDES-BENZ,TWO-SEATER,5.5,8,Automatic,Premium Gasoline,13.0,7,2046.69
+RAM,MINIVAN,3.6,6,Automatic,Ethanol(E85),15.9,6,2055.99
+INFINITI,SUV - SMALL,3.5,6,Continuously Variable,Premium Gasoline,10.1,7,2142.06
+HYUNDAI,SUV - SMALL,2.0,4,Automatic with Select Shift,Regular Gasoline,9.0,6,2033.12
+MINI,SUBCOMPACT,1.5,3,Manual,Premium Gasoline,7.3,6,2085.06
+MERCEDES-BENZ,TWO-SEATER,1.8,4,Automatic with Select Shift,Premium Gasoline,9.0,7,2029.52
+LEXUS,COMPACT,3.5,6,Automatic with Select Shift,Premium Gasoline,11.1,6,1983.24
+DODGE,MID-SIZE,6.4,8,Manual,Premium Gasoline,13.9,6,2099.76
+FORD,PICKUP TRUCK - STANDARD,5.0,8,Automatic with Select Shift,Regular Gasoline,13.8,10,2056.66
+CADILLAC,MID-SIZE,6.2,8,Automatic with Select Shift,Premium Gasoline,14.0,8,1879.39
+FIAT,MINICOMPACT,1.4,4,Automatic,Regular Gasoline,8.6,6,1904.29
+CHEVROLET,TWO-SEATER,6.2,8,Manual,Premium Gasoline,13.5,7,1936.2
+MERCEDES-BENZ,COMPACT,2.0,4,Automatic with Select Shift,Premium Gasoline,7.8,7,1931.69
+CHEVROLET,SUV - STANDARD,3.6,6,Automatic,Regular Gasoline,13.7,6,1936.88
+VOLKSWAGEN,COMPACT,2.0,4,Automated Manual,Diesel,6.9,6,1905.62
+BMW,SUV - STANDARD,4.4,8,Automatic with Select Shift,Premium Gasoline,14.6,8,2127.58
+FORD,PICKUP TRUCK - STANDARD,5.0,8,Automatic with Select Shift,Regular Gasoline,13.1,10,1982.05
+KIA,MID-SIZE,2.0,4,Manual,Regular Gasoline,8.5,6,2009.52
+CHEVROLET,COMPACT,1.4,4,Manual,Regular Gasoline,7.5,6,2083.71
+MITSUBISHI,SUV - SMALL,2.4,4,Continuously Variable,Regular Gasoline,9.4,6,1884.98
+GMC,SUV - STANDARD,5.3,8,Automatic,Ethanol(E85),17.1,6,1906.69
+VOLKSWAGEN,COMPACT,1.8,4,Automatic with Select Shift,Regular Gasoline,8.5,6,2074.58
+FIAT,MINICOMPACT,1.4,4,Manual,Regular Gasoline,6.8,5,1994.17
+BUICK,SUV - STANDARD,3.6,6,Automatic,Regular Gasoline,12.3,6,1925.64
+HYUNDAI,COMPACT,1.6,4,Manual,Regular Gasoline,8.0,6,2078.45
+DODGE,FULL-SIZE,3.6,6,Automatic,Ethanol(E85),14.8,8,1962.63
+MERCEDES-BENZ,COMPACT,4.7,8,Automatic with Select Shift,Premium Gasoline,12.5,7,1907.05
+BMW,SUV - SMALL,3.0,6,Automatic with Select Shift,Premium Gasoline,10.9,8,1902.64
+FORD,COMPACT,2.0,4,Automated Manual,Ethanol(E85),10.4,6,2010.65
+LINCOLN,SUV - STANDARD,3.5,6,Automatic with Select Shift,Regular Gasoline,13.7,6,1916.8
+AUDI,TWO-SEATER,2.0,4,Automatic,Premium Gasoline,9.1,6,1908.66
+JEEP,SUV - SMALL,2.4,4,Automatic,Ethanol(E85),12.2,9,2041.15
+MINI,TWO-SEATER,1.6,4,Manual,Premium Gasoline,7.3,6,2030.41
+CHEVROLET,MID-SIZE,1.8,4,Manual,Regular Gasoline,8.1,6,1928.01
+VOLKSWAGEN,COMPACT,2.0,4,Automatic with Select Shift,Regular Gasoline,8.9,6,1923.17
+AUDI,SUBCOMPACT,2.0,4,Manual,Premium Gasoline,9.1,6,1969.79
+ROLLS-ROYCE,FULL-SIZE,6.7,12,Automatic with Select Shift,Premium Gasoline,17.2,8,1884.86
+CHEVROLET,SUV - STANDARD,5.3,8,Automatic,Ethanol(E85),17.2,6,1915.95
+KIA,SUV - SMALL,3.3,6,Automatic with Select Shift,Regular Gasoline,11.6,6,2034.88
+MERCEDES-BENZ,TWO-SEATER,1.8,4,Automatic with Select Shift,Premium Gasoline,8.9,7,1944.79
+DODGE,FULL-SIZE,6.2,8,Automatic,Premium Gasoline,15.6,8,1982.35
+KIA,STATION WAGON - MID-SIZE,2.0,4,Automatic with Select Shift,Regular Gasoline,8.9,6,2080.41
+MERCEDES-BENZ,FULL-SIZE,4.0,8,Automatic,Premium Gasoline,12.2,9,2094.15
+PORSCHE,MINICOMPACT,3.0,6,Automated Manual,Premium Gasoline,11.5,8,1886.27
+CHEVROLET,PICKUP TRUCK - SMALL,3.6,6,Automatic,Regular Gasoline,12.2,8,2073.64
+FIAT,MINICOMPACT,1.4,4,Automatic,Regular Gasoline,7.9,6,2136.77
+PORSCHE,MINICOMPACT,3.0,6,Automated Manual,Premium Gasoline,9.7,7,1912.21
+MERCEDES-BENZ,SUBCOMPACT,3.0,6,Automatic with Select Shift,Premium Gasoline,10.0,7,1904.86
+JEEP,SUV - SMALL,2.4,4,Automatic,Regular Gasoline,10.2,9,2102.35
+ALFA ROMEO,MID-SIZE,2.9,6,Automatic,Premium Gasoline,11.6,8,2051.78
+TOYOTA,MID-SIZE,1.8,4,Continuously Variable,Regular Gasoline,4.5,0,1901.38
+LEXUS,MID-SIZE,4.6,8,Automatic with Select Shift,Premium Gasoline,12.9,8,2114.24
+FORD,SUV - STANDARD,3.5,6,Automatic with Select Shift,Regular Gasoline,13.0,6,1955.23
+NISSAN,STATION WAGON - SMALL,1.6,4,Manual,Premium Gasoline,8.6,6,2091.74
+CHEVROLET,SUBCOMPACT,2.0,4,Manual,Premium Gasoline,10.1,6,2139.9
+FORD,PICKUP TRUCK - STANDARD,5.0,8,Automatic,Regular Gasoline,14.9,6,1887.45
+AUDI,COMPACT,3.0,6,Automated Manual,Premium Gasoline,9.9,8,2104.45
+CHEVROLET,PICKUP TRUCK - STANDARD,5.3,8,Automatic,Ethanol(E85),17.1,6,2080.99
+TOYOTA,PICKUP TRUCK - SMALL,2.7,4,Automatic with Select Shift,Regular Gasoline,11.1,6,2013.64
+MAZDA,MID-SIZE,2.0,4,Automatic with Select Shift,Regular Gasoline,7.7,6,2041.42
+CADILLAC,MID-SIZE,2.0,4,Automatic with Select Shift,Premium Gasoline,9.9,6,2067.35
+KIA,SUV - SMALL,2.4,4,Automatic with Select Shift,Regular Gasoline,10.0,6,2083.13
+HONDA,SUV - SMALL,3.5,6,Automatic,Regular Gasoline,10.8,6,1930.37
+KIA,SUV - SMALL,2.4,4,Manual,Regular Gasoline,11.3,6,2061.44
+MERCEDES-BENZ,SUV - STANDARD,5.5,8,Automatic with Select Shift,Premium Gasoline,18.5,7,1878.12
+VOLVO,COMPACT,2.0,4,Automatic with Select Shift,Premium Gasoline,9.4,8,2074.56
+TOYOTA,SUV - STANDARD,4.0,6,Automatic with Select Shift,Regular Gasoline,13.2,5,2087.7
+TOYOTA,MID-SIZE,3.5,6,Automatic with Select Shift,Regular Gasoline,9.2,8,2025.59
+JAGUAR,MINICOMPACT,5.0,8,Automatic with Select Shift,Premium Gasoline,13.7,6,2079.09
+KIA,FULL-SIZE,2.4,4,Automatic with Select Shift,Regular Gasoline,8.4,6,1903.06
+CADILLAC,COMPACT,2.0,4,Manual,Premium Gasoline,10.3,6,2049.34
+PORSCHE,FULL-SIZE,4.8,8,Automated Manual,Premium Gasoline,12.7,7,1904.39
+LINCOLN,SPECIAL PURPOSE VEHICLE,3.7,6,Automatic,Regular Gasoline,12.7,6,2076.07
+TOYOTA,SUV - SMALL,2.5,4,Continuously Variable,Regular Gasoline,7.3,6,2142.29
