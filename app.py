@@ -116,7 +116,9 @@ def main():
 
         fuelt_list = ['Regular Gasoline','Premium Gasoline',
               'Diesel','Ethanol(E85)','Natural gas']
-
+        
+        distance = st.number_input('What is the average monthly distance covered by this vehicle in kilometers',
+                                   min_value=1.0,value=2011.7,step=0.1)
 
         consume = st.slider('Fuel consumption in litres per 100km',4.1,26.1,step=0.1)
         fuel = st.selectbox('Fuel Type:',fuelt_list,index=1)
@@ -154,30 +156,70 @@ def main():
                 predic = predict_test(inp)
 
             st.subheader('Results')
-            st.write('The predicted CO2 emission rate is ' + str(round(predic[0],3)) + ' g/km')
+            st.write('The predicted monthly CO2 emission for this vehicle is ' + str(round(predic[0]*distance*0.001,3)) + ' kg')
     
 
 
     if mode == 'Batch Prediction':
         st.header('Predicting on Uploaded File')
-        u_data = st.file_uploader('The transactions on which you want to predict',type='csv')
+
+        st.write('This mode requires you to upload a csv file containing the features of a number of vehicles on which you want to predict\
+                 CO2 emissions')
+        st.write('Below is a table containing a guide on how the table should be structured')
+        
+        test_copy = test.drop('CO2 Emissions(g/km)',axis=1)
+        
+        col_name = ['Make','Vehicle Class','Engine Size(L)','Cylinders','Transmission','Fuel Type','Fuel Consumption Comb (L/100 km)','number_of_gears']
+        data_type = list(np.squeeze(test_copy.dtypes))
+        data_example = [list(np.squeeze(test_copy[i].unique())) for i in test_copy.columns]
+        
+        illust = pd.DataFrame({'Column Name':col_name,'Data Type':data_type,'Examples':data_example})
+        
+        ranges = [2,3,6,7]
+
+        for q in ranges:
+            illust.iloc[q,2] = 'Between ' + str(test_copy.iloc[:,q].min()) + ' and ' + str(test_copy.iloc[:,q].max())
+        
+        illust['Data Type'] = np.where(illust['Data Type']=='object','String',illust['Data Type'])
+
+        illust
+        st.write('Warning!!!')
+        st.write('Uploading data with wrong data types will lead to unexpected dangerous results')
+
+        u_data = st.file_uploader('Kindly provide a csv file containing the vehicles on which you want to predict',type='csv')
+        
         if u_data is not None:
-            data = pd.read_csv(u_data,index_col = 'ID')
+            data = pd.read_csv(u_data)
 
             st.subheader('Dataset Preview')
-            data
-
+            data_ordered = data[col_name]
+            st.write('Below is the data you uploaded')
+            data_ordered
+            
+            for i,j in transmissi:
+                    data_ordered['Transmission'] = np.where(data_ordered['Transmission']==i,
+                                                        j,data_ordered['Transmission'])
+            for i,j in fuelty:
+                data_ordered['Fuel Type'] = np.where(data_ordered['Fuel Type']==i,
+                                                    j,data_ordered['Fuel Type'])
+               
+            
+            
+            
+            
             if st.button("Predict on uploaded data"):
                 
                 with st.spinner("Predicting... Please wait."):
-                    predic = predict_test(data)
+                    predic = predict_test(data_ordered)
 
                 st.subheader('Results')
                 pred_view = pd.DataFrame(predic)
                 
-                pred_view.columns = ['Prediction']
+                pred_view.columns = ['Predicted CO2 emission rate in g/km']
                 
                 pred_view
+
+
 
  
 
