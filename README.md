@@ -6,3 +6,4 @@ Applying Machine Learning to predict CO2 emission of vehicles
 - Preparation of the data and training of the model is in 'Regression_IsaacOluwafemiOgunniyi.ipynb'
 - co2_predictor.pkl is the serialised model for predicting co2 emission rates
 - The train.csv and test.csv files are created for use in the streamlit app, app.py
+- batch_test.csv contains sample data for batch test mode
