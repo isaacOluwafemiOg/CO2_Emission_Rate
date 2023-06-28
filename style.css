@@ -1,0 +1,32 @@
+div.css-1xarl3l.e16fv1kl1 { /* editing metric cards at top of main section */
+    background-color: #D8C4B6;
+    border: 1px solid #213555;
+    border-radius: 10px;
+    padding: 3% 0 3% 6%;
+}
+
+div.block-container.css-18e3th9.egzxvld2{ /* clearing upper space in main section */
+    margin-top: -5em;
+}
+
+div.block-container.css-1gx893w.egzxvld2{ /* clearing upper space in sidebar */
+    margin-top: -2em;
+}
+
+
+div.css-434r0z.e1tzin5v3{
+    width: 60%;
+    height: 80%;
+    margin: auto;
+}
+
+
+div.css-1uii870.e16nr0p34 a {
+
+    text-decoration : none;
+}
+
+#MainMenu{
+    visibility: hidden;
+}
+

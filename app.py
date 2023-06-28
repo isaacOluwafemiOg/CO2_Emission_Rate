@@ -7,7 +7,14 @@ from sklearn.model_selection import train_test_split
 import pickle
 from PIL import Image
 
-#imag=Image.open('dataware.jpg')
+imag=Image.open('co2_imageai.jpg')
+
+st.set_page_config(layout='wide', initial_sidebar_state='expanded')
+
+with open("style.css") as f:
+    st.markdown(f'<style>{f.read()}</style>',unsafe_allow_html=True)
+
+
 np.random.seed(3)
 @st.cache(allow_output_mutation=True)
 def train_model():
@@ -37,7 +44,7 @@ def predict_test(pdata):
 
 def main():
     #st.sidebar.image(imag,width=80)#,use_column_width=True)
-    
+    st.sidebar.image(imag,use_column_width=True)
     mode =st.sidebar.selectbox('Prediction mode:',['Default Test','Single Prediction','Batch Prediction'],index=0)
     st.sidebar.markdown('''
     ---
@@ -46,6 +53,8 @@ def main():
     
     
     st.title('CO2 Emission Predictor')
+
+   
     
     with st.spinner("Unpacking the model... Please wait."):
         X_test,test,model,trainscore,testscore = train_model()
