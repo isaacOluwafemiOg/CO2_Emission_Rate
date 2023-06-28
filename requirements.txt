@@ -1,6 +1,6 @@
 streamlit
 pandas
 numpy
-sckikit-learn
+scikit-learn
 PIL
 
