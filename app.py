@@ -58,7 +58,7 @@ def main():
     on the features of vehicles and an average monthly distance covered by the vehicle')
     st.write('A machine learning model predicts the CO2 emission rate of the vehicle based on the input vehicle features\
     and subsequently the CO2 emission per month using the input average monthly distance covered')
-    st.write('The are three modes of this application and it can be toggled using the drop-down on the left side-bar')
+    st.write('There are three modes of this application and it can be toggled using the drop-down on the left side-bar')
 
    
     
