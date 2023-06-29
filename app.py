@@ -54,9 +54,8 @@ def main():
     
     st.title('CO2 Emission Predictor')
     st.write('This web application is towards Net Zero journey with an emphasis on helping SMEs assess\
-    the environmental impact of their operations especially with regard to transport')
-    st.write('It works by taking input on the features of vehicles and an average monthly distance covered\
-    by the vehicle')
+    the environmental impact of their operations especially with regard to transport. It works by taking input\
+    on the features of vehicles and an average monthly distance covered by the vehicle')
     st.write('A machine learning model predicts the CO2 emission rate of the vehicle based on the input vehicle features\
     and subsequently the CO2 emission per month using the input average monthly distance covered')
     st.write('The are three modes of this application and it can be toggled using the drop-down on the left side-bar')
@@ -68,8 +67,8 @@ def main():
     
     col1, col2 = st.columns(2,gap='medium')
     
-    col1.metric('Train RMSE:', str(round((trainscore) ** 0.5,3))+' g/km')
-    col2.metric('Test RMSE:', str(round((testscore) ** 0.5,3))+' g/km')
+    col1.metric('Train RMSE:', str(round((trainscore) ** 0.5,3))+' g/km',help='Performance of model on train data')
+    col2.metric('Test RMSE:', str(round((testscore) ** 0.5,3))+' g/km',help='Performance of model on test data')
 
     transmissi = [('A','Automatic'),('AM','Automated Manual'),
                   ('AV','Continuously Variable'),('M','Manual'),
