@@ -191,7 +191,7 @@ def main():
         col_name = ['Make','Vehicle Class','Engine Size(L)','Cylinders','Transmission','Fuel Type','Fuel Consumption Comb (L/100 km)','number_of_gears',
                     'Average Monthly Distance(km)']
         data_type = list(np.squeeze(test_copy.dtypes))
-        data_example = [list(np.squeeze(test_copy[i].unique())) for i in test_copy.columns]
+        data_example = [str(list(np.squeeze(test_copy[i].unique()))) for i in test_copy.columns]
         
         illust = pd.DataFrame({'Column Name':col_name,'Data Type':data_type,'Examples':data_example})
         
