@@ -2,8 +2,8 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 
-from scikit-learn.metrics import mean_squared_error
-from scikit-learn.model_selection import train_test_split
+from sklearn.metrics import mean_squared_error
+from sklearn.model_selection import train_test_split
 import pickle
 from PIL import Image
 
