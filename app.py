@@ -16,7 +16,7 @@ with open("style.css") as f:
 
 
 np.random.seed(3)
-@st.cache_data(allow_output_mutation=True)
+@st.cache_resource
 def train_model():
     test = pd.read_csv('test.csv')
     data = pd.read_csv('train.csv')
@@ -32,7 +32,7 @@ def train_model():
     test_score = mean_squared_error(y_test,te_pred)
     return (X_test,test,model,train_score,test_score)
 
-@st.cache_data(allow_output_mutation=True)
+@st.cache_resource
 def predict_test(pdata):
     model =pickle.load(open('co2_predictor.pkl','rb'))
     pred = model.predict(pdata)
