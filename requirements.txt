@@ -1,5 +1,5 @@
 streamlit==1.22.0
 pandas==1.5
 numpy==1.24.4
-scikit-learn==1
+scikit-learn==1.2.2
 category_encoders
