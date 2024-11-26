@@ -1,4 +1,4 @@
-streamlit
+streamlit==1.22.0
 pandas<2
 numpy
 scikit-learn==1
